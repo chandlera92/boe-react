@@ -1,0 +1,9893 @@
+[
+  {
+    "id": 0,
+    "header": "Real GDP at market prices",
+    "title": "A2. Real GDP (A) 1700-2015",
+    "unit": "£mn, Chained Volume measure, 2013 prices",
+    "points": [
+      {
+        "value": 855933,
+        "year": 1979
+      },
+      {
+        "value": 838462,
+        "year": 1980
+      },
+      {
+        "value": 831931,
+        "year": 1981
+      },
+      {
+        "value": 848700,
+        "year": 1982
+      },
+      {
+        "value": 884520,
+        "year": 1983
+      },
+      {
+        "value": 904639,
+        "year": 1984
+      },
+      {
+        "value": 942519,
+        "year": 1985
+      },
+      {
+        "value": 972239,
+        "year": 1986
+      },
+      {
+        "value": 1024346,
+        "year": 1987
+      },
+      {
+        "value": 1083629,
+        "year": 1988
+      },
+      {
+        "value": 1111618,
+        "year": 1989
+      },
+      {
+        "value": 1119587,
+        "year": 1990
+      },
+      {
+        "value": 1107059,
+        "year": 1991
+      },
+      {
+        "value": 1111043,
+        "year": 1992
+      },
+      {
+        "value": 1138897,
+        "year": 1993
+      },
+      {
+        "value": 1183144,
+        "year": 1994
+      },
+      {
+        "value": 1212798,
+        "year": 1995
+      },
+      {
+        "value": 1243709,
+        "year": 1996
+      },
+      {
+        "value": 1282602,
+        "year": 1997
+      },
+      {
+        "value": 1323527,
+        "year": 1998
+      },
+      {
+        "value": 1366983,
+        "year": 1999
+      },
+      {
+        "value": 1418176,
+        "year": 2000
+      },
+      {
+        "value": 1456837,
+        "year": 2001
+      },
+      {
+        "value": 1491761,
+        "year": 2002
+      },
+      {
+        "value": 1543468,
+        "year": 2003
+      },
+      {
+        "value": 1582486,
+        "year": 2004
+      },
+      {
+        "value": 1629519,
+        "year": 2005
+      },
+      {
+        "value": 1670306,
+        "year": 2006
+      },
+      {
+        "value": 1712996,
+        "year": 2007
+      },
+      {
+        "value": 1702252,
+        "year": 2008
+      },
+      {
+        "value": 1628583,
+        "year": 2009
+      },
+      {
+        "value": 1659772,
+        "year": 2010
+      },
+      {
+        "value": 1684820,
+        "year": 2011
+      },
+      {
+        "value": 1706942,
+        "year": 2012
+      },
+      {
+        "value": 1739563,
+        "year": 2013
+      },
+      {
+        "value": 1792976,
+        "year": 2014
+      },
+      {
+        "value": 1833233,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 1,
+    "header": "Real GDP at factor cost",
+    "title": "A2. Real GDP (A) 1700-2015",
+    "unit": "£mn, Chained Volume measure, 2013 prices",
+    "points": [
+      {
+        "value": 761303,
+        "year": 1979
+      },
+      {
+        "value": 746269,
+        "year": 1980
+      },
+      {
+        "value": 740824,
+        "year": 1981
+      },
+      {
+        "value": 756518,
+        "year": 1982
+      },
+      {
+        "value": 787485,
+        "year": 1983
+      },
+      {
+        "value": 802671,
+        "year": 1984
+      },
+      {
+        "value": 838515,
+        "year": 1985
+      },
+      {
+        "value": 862170,
+        "year": 1986
+      },
+      {
+        "value": 907589,
+        "year": 1987
+      },
+      {
+        "value": 959298,
+        "year": 1988
+      },
+      {
+        "value": 984669,
+        "year": 1989
+      },
+      {
+        "value": 993064,
+        "year": 1990
+      },
+      {
+        "value": 986263,
+        "year": 1991
+      },
+      {
+        "value": 991299,
+        "year": 1992
+      },
+      {
+        "value": 1017407,
+        "year": 1993
+      },
+      {
+        "value": 1053844,
+        "year": 1994
+      },
+      {
+        "value": 1076715,
+        "year": 1995
+      },
+      {
+        "value": 1102051,
+        "year": 1996
+      },
+      {
+        "value": 1133913,
+        "year": 1997
+      },
+      {
+        "value": 1171832,
+        "year": 1998
+      },
+      {
+        "value": 1211899,
+        "year": 1999
+      },
+      {
+        "value": 1257937,
+        "year": 2000
+      },
+      {
+        "value": 1288852,
+        "year": 2001
+      },
+      {
+        "value": 1316157,
+        "year": 2002
+      },
+      {
+        "value": 1362805,
+        "year": 2003
+      },
+      {
+        "value": 1394537,
+        "year": 2004
+      },
+      {
+        "value": 1440512,
+        "year": 2005
+      },
+      {
+        "value": 1476326,
+        "year": 2006
+      },
+      {
+        "value": 1513717,
+        "year": 2007
+      },
+      {
+        "value": 1507405,
+        "year": 2008
+      },
+      {
+        "value": 1438457,
+        "year": 2009
+      },
+      {
+        "value": 1467124,
+        "year": 2010
+      },
+      {
+        "value": 1488708,
+        "year": 2011
+      },
+      {
+        "value": 1505417,
+        "year": 2012
+      },
+      {
+        "value": 1527959,
+        "year": 2013
+      },
+      {
+        "value": 1580198,
+        "year": 2014
+      },
+      {
+        "value": 1617269,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 2,
+    "header": "HP-filtered log real GDP at factor cost",
+    "title": "A2. Real GDP (A) 1700-2015",
+    "unit": "approx. % difference from trend",
+    "points": [
+      {
+        "value": 2,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": -3,
+        "year": 1981
+      },
+      {
+        "value": -3,
+        "year": 1982
+      },
+      {
+        "value": -1,
+        "year": 1983
+      },
+      {
+        "value": -2,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 1,
+        "year": 1987
+      },
+      {
+        "value": 4,
+        "year": 1988
+      },
+      {
+        "value": 4,
+        "year": 1989
+      },
+      {
+        "value": 2,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": -2,
+        "year": 1992
+      },
+      {
+        "value": -1,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": -1,
+        "year": 1995
+      },
+      {
+        "value": -1,
+        "year": 1996
+      },
+      {
+        "value": -1,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 1,
+        "year": 2004
+      },
+      {
+        "value": 2,
+        "year": 2005
+      },
+      {
+        "value": 2,
+        "year": 2006
+      },
+      {
+        "value": 4,
+        "year": 2007
+      },
+      {
+        "value": 2,
+        "year": 2008
+      },
+      {
+        "value": -3,
+        "year": 2009
+      },
+      {
+        "value": -2,
+        "year": 2010
+      },
+      {
+        "value": -2,
+        "year": 2011
+      },
+      {
+        "value": -2,
+        "year": 2012
+      },
+      {
+        "value": -1,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 1,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 3,
+    "header": "Real gross disposable national income at market prices",
+    "title": "A5. GDP, GNI and National Saving",
+    "unit": "£mn, Chained Volume measure, 2013 prices.  Nominal GDI divided by private and public consumption deflator",
+    "points": [
+      {
+        "value": 805329,
+        "year": 1979
+      },
+      {
+        "value": 794849,
+        "year": 1980
+      },
+      {
+        "value": 791636,
+        "year": 1981
+      },
+      {
+        "value": 799657,
+        "year": 1982
+      },
+      {
+        "value": 833498,
+        "year": 1983
+      },
+      {
+        "value": 854088,
+        "year": 1984
+      },
+      {
+        "value": 889876,
+        "year": 1985
+      },
+      {
+        "value": 925155,
+        "year": 1986
+      },
+      {
+        "value": 973576,
+        "year": 1987
+      },
+      {
+        "value": 1035986,
+        "year": 1988
+      },
+      {
+        "value": 1078045,
+        "year": 1989
+      },
+      {
+        "value": 1085056,
+        "year": 1990
+      },
+      {
+        "value": 1071456,
+        "year": 1991
+      },
+      {
+        "value": 1065062,
+        "year": 1992
+      },
+      {
+        "value": 1087220,
+        "year": 1993
+      },
+      {
+        "value": 1130532,
+        "year": 1994
+      },
+      {
+        "value": 1148682,
+        "year": 1995
+      },
+      {
+        "value": 1190981,
+        "year": 1996
+      },
+      {
+        "value": 1233444,
+        "year": 1997
+      },
+      {
+        "value": 1287905,
+        "year": 1998
+      },
+      {
+        "value": 1307912,
+        "year": 1999
+      },
+      {
+        "value": 1378480,
+        "year": 2000
+      },
+      {
+        "value": 1425388,
+        "year": 2001
+      },
+      {
+        "value": 1479088,
+        "year": 2002
+      },
+      {
+        "value": 1532356,
+        "year": 2003
+      },
+      {
+        "value": 1576137,
+        "year": 2004
+      },
+      {
+        "value": 1633653,
+        "year": 2005
+      },
+      {
+        "value": 1656939,
+        "year": 2006
+      },
+      {
+        "value": 1704016,
+        "year": 2007
+      },
+      {
+        "value": 1662194,
+        "year": 2008
+      },
+      {
+        "value": 1589836,
+        "year": 2009
+      },
+      {
+        "value": 1615547,
+        "year": 2010
+      },
+      {
+        "value": 1633081,
+        "year": 2011
+      },
+      {
+        "value": 1681556,
+        "year": 2012
+      },
+      {
+        "value": 1702359,
+        "year": 2013
+      },
+      {
+        "value": 1749880,
+        "year": 2014
+      },
+      {
+        "value": 1782790,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 4,
+    "header": "Real consumption",
+    "title": "A7. GDP(E) - volumes",
+    "unit": "£mn, Chained Volume measure, 2013 prices",
+    "points": [
+      {
+        "value": 472608,
+        "year": 1979
+      },
+      {
+        "value": 473241,
+        "year": 1980
+      },
+      {
+        "value": 475134,
+        "year": 1981
+      },
+      {
+        "value": 481268,
+        "year": 1982
+      },
+      {
+        "value": 502456,
+        "year": 1983
+      },
+      {
+        "value": 515266,
+        "year": 1984
+      },
+      {
+        "value": 542087,
+        "year": 1985
+      },
+      {
+        "value": 574404,
+        "year": 1986
+      },
+      {
+        "value": 603762,
+        "year": 1987
+      },
+      {
+        "value": 648722,
+        "year": 1988
+      },
+      {
+        "value": 673792,
+        "year": 1989
+      },
+      {
+        "value": 681303,
+        "year": 1990
+      },
+      {
+        "value": 677683,
+        "year": 1991
+      },
+      {
+        "value": 683769,
+        "year": 1992
+      },
+      {
+        "value": 704579,
+        "year": 1993
+      },
+      {
+        "value": 727946,
+        "year": 1994
+      },
+      {
+        "value": 743484,
+        "year": 1995
+      },
+      {
+        "value": 771675,
+        "year": 1996
+      },
+      {
+        "value": 810096,
+        "year": 1997
+      },
+      {
+        "value": 841376,
+        "year": 1998
+      },
+      {
+        "value": 881492,
+        "year": 1999
+      },
+      {
+        "value": 923822,
+        "year": 2000
+      },
+      {
+        "value": 956850,
+        "year": 2001
+      },
+      {
+        "value": 992187,
+        "year": 2002
+      },
+      {
+        "value": 1029234,
+        "year": 2003
+      },
+      {
+        "value": 1064100,
+        "year": 2004
+      },
+      {
+        "value": 1095514,
+        "year": 2005
+      },
+      {
+        "value": 1113261,
+        "year": 2006
+      },
+      {
+        "value": 1145189,
+        "year": 2007
+      },
+      {
+        "value": 1137565,
+        "year": 2008
+      },
+      {
+        "value": 1100941,
+        "year": 2009
+      },
+      {
+        "value": 1107273,
+        "year": 2010
+      },
+      {
+        "value": 1102262,
+        "year": 2011
+      },
+      {
+        "value": 1121061,
+        "year": 2012
+      },
+      {
+        "value": 1138546,
+        "year": 2013
+      },
+      {
+        "value": 1163136,
+        "year": 2014
+      },
+      {
+        "value": 1192636,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 5,
+    "header": "Real investment",
+    "title": "A7. GDP(E) - volumes",
+    "unit": "£mn, Chained Volume measure, 2013 prices",
+    "points": [
+      {
+        "value": 169696,
+        "year": 1979
+      },
+      {
+        "value": 158737,
+        "year": 1980
+      },
+      {
+        "value": 148198,
+        "year": 1981
+      },
+      {
+        "value": 155821,
+        "year": 1982
+      },
+      {
+        "value": 167089,
+        "year": 1983
+      },
+      {
+        "value": 177847,
+        "year": 1984
+      },
+      {
+        "value": 181405,
+        "year": 1985
+      },
+      {
+        "value": 179088,
+        "year": 1986
+      },
+      {
+        "value": 201290,
+        "year": 1987
+      },
+      {
+        "value": 232441,
+        "year": 1988
+      },
+      {
+        "value": 243717,
+        "year": 1989
+      },
+      {
+        "value": 237479,
+        "year": 1990
+      },
+      {
+        "value": 218605,
+        "year": 1991
+      },
+      {
+        "value": 215067,
+        "year": 1992
+      },
+      {
+        "value": 216704,
+        "year": 1993
+      },
+      {
+        "value": 220161,
+        "year": 1994
+      },
+      {
+        "value": 219121,
+        "year": 1995
+      },
+      {
+        "value": 229349,
+        "year": 1996
+      },
+      {
+        "value": 225752,
+        "year": 1997
+      },
+      {
+        "value": 243682,
+        "year": 1998
+      },
+      {
+        "value": 250037,
+        "year": 1999
+      },
+      {
+        "value": 258770,
+        "year": 2000
+      },
+      {
+        "value": 255914,
+        "year": 2001
+      },
+      {
+        "value": 263108,
+        "year": 2002
+      },
+      {
+        "value": 269400,
+        "year": 2003
+      },
+      {
+        "value": 277286,
+        "year": 2004
+      },
+      {
+        "value": 287077,
+        "year": 2005
+      },
+      {
+        "value": 296121,
+        "year": 2006
+      },
+      {
+        "value": 312995,
+        "year": 2007
+      },
+      {
+        "value": 292575,
+        "year": 2008
+      },
+      {
+        "value": 248099,
+        "year": 2009
+      },
+      {
+        "value": 260396,
+        "year": 2010
+      },
+      {
+        "value": 265327,
+        "year": 2011
+      },
+      {
+        "value": 271534,
+        "year": 2012
+      },
+      {
+        "value": 280224,
+        "year": 2013
+      },
+      {
+        "value": 298872,
+        "year": 2014
+      },
+      {
+        "value": 308866,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 6,
+    "header": "Corporate Tax Rate",
+    "title": "Standard Rate of Tax",
+    "unit": "%",
+    "points": [
+      {
+        "value": 52,
+        "year": 1979
+      },
+      {
+        "value": 52,
+        "year": 1980
+      },
+      {
+        "value": 52,
+        "year": 1981
+      },
+      {
+        "value": 52,
+        "year": 1982
+      },
+      {
+        "value": 50,
+        "year": 1983
+      },
+      {
+        "value": 45,
+        "year": 1984
+      },
+      {
+        "value": 40,
+        "year": 1985
+      },
+      {
+        "value": 35,
+        "year": 1986
+      },
+      {
+        "value": 35,
+        "year": 1987
+      },
+      {
+        "value": 35,
+        "year": 1988
+      },
+      {
+        "value": 35,
+        "year": 1989
+      },
+      {
+        "value": 34,
+        "year": 1990
+      },
+      {
+        "value": 33,
+        "year": 1991
+      },
+      {
+        "value": 33,
+        "year": 1992
+      },
+      {
+        "value": 33,
+        "year": 1993
+      },
+      {
+        "value": 33,
+        "year": 1994
+      },
+      {
+        "value": 33,
+        "year": 1995
+      },
+      {
+        "value": 33,
+        "year": 1996
+      },
+      {
+        "value": 31,
+        "year": 1997
+      },
+      {
+        "value": 31,
+        "year": 1998
+      },
+      {
+        "value": 30,
+        "year": 1999
+      },
+      {
+        "value": 30,
+        "year": 2000
+      },
+      {
+        "value": 30,
+        "year": 2001
+      },
+      {
+        "value": 30,
+        "year": 2002
+      },
+      {
+        "value": 30,
+        "year": 2003
+      },
+      {
+        "value": 30,
+        "year": 2004
+      },
+      {
+        "value": 30,
+        "year": 2005
+      },
+      {
+        "value": 30,
+        "year": 2006
+      },
+      {
+        "value": 30,
+        "year": 2007
+      },
+      {
+        "value": 28,
+        "year": 2008
+      },
+      {
+        "value": 28,
+        "year": 2009
+      },
+      {
+        "value": 28,
+        "year": 2010
+      },
+      {
+        "value": 26,
+        "year": 2011
+      },
+      {
+        "value": 24,
+        "year": 2012
+      },
+      {
+        "value": 23,
+        "year": 2013
+      },
+      {
+        "value": 21,
+        "year": 2014
+      },
+      {
+        "value": 20,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 7,
+    "header": "Stockbuilding contribution",
+    "title": "A7. GDP(E) - volumes",
+    "unit": "pp contribution to GDP(E)",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": -1,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 0,
+        "year": 2005
+      },
+      {
+        "value": 0,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 1,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 8,
+    "header": "Real government consumption of goods and services",
+    "title": "A7. GDP(E) - volumes",
+    "unit": "£mn, Chained Volume measure, 2013 prices",
+    "points": [
+      {
+        "value": 206590,
+        "year": 1979
+      },
+      {
+        "value": 208988,
+        "year": 1980
+      },
+      {
+        "value": 208794,
+        "year": 1981
+      },
+      {
+        "value": 210090,
+        "year": 1982
+      },
+      {
+        "value": 213382,
+        "year": 1983
+      },
+      {
+        "value": 215910,
+        "year": 1984
+      },
+      {
+        "value": 215253,
+        "year": 1985
+      },
+      {
+        "value": 218513,
+        "year": 1986
+      },
+      {
+        "value": 218961,
+        "year": 1987
+      },
+      {
+        "value": 219371,
+        "year": 1988
+      },
+      {
+        "value": 221327,
+        "year": 1989
+      },
+      {
+        "value": 226653,
+        "year": 1990
+      },
+      {
+        "value": 233409,
+        "year": 1991
+      },
+      {
+        "value": 235641,
+        "year": 1992
+      },
+      {
+        "value": 234234,
+        "year": 1993
+      },
+      {
+        "value": 236892,
+        "year": 1994
+      },
+      {
+        "value": 240149,
+        "year": 1995
+      },
+      {
+        "value": 241774,
+        "year": 1996
+      },
+      {
+        "value": 240964,
+        "year": 1997
+      },
+      {
+        "value": 249051,
+        "year": 1998
+      },
+      {
+        "value": 257905,
+        "year": 1999
+      },
+      {
+        "value": 266611,
+        "year": 2000
+      },
+      {
+        "value": 277611,
+        "year": 2001
+      },
+      {
+        "value": 289632,
+        "year": 2002
+      },
+      {
+        "value": 301956,
+        "year": 2003
+      },
+      {
+        "value": 312566,
+        "year": 2004
+      },
+      {
+        "value": 320037,
+        "year": 2005
+      },
+      {
+        "value": 327045,
+        "year": 2006
+      },
+      {
+        "value": 330821,
+        "year": 2007
+      },
+      {
+        "value": 337665,
+        "year": 2008
+      },
+      {
+        "value": 341515,
+        "year": 2009
+      },
+      {
+        "value": 342139,
+        "year": 2010
+      },
+      {
+        "value": 342825,
+        "year": 2011
+      },
+      {
+        "value": 348572,
+        "year": 2012
+      },
+      {
+        "value": 349615,
+        "year": 2013
+      },
+      {
+        "value": 357590,
+        "year": 2014
+      },
+      {
+        "value": 362431,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 9,
+    "header": "Export volumes",
+    "title": "A23. Trade volumes ",
+    "unit": "£mn, Chained Volume measure, 2013 prices. ",
+    "points": [
+      {
+        "value": 144082,
+        "year": 1979
+      },
+      {
+        "value": 143666,
+        "year": 1980
+      },
+      {
+        "value": 142946,
+        "year": 1981
+      },
+      {
+        "value": 144536,
+        "year": 1982
+      },
+      {
+        "value": 147462,
+        "year": 1983
+      },
+      {
+        "value": 157428,
+        "year": 1984
+      },
+      {
+        "value": 166641,
+        "year": 1985
+      },
+      {
+        "value": 173577,
+        "year": 1986
+      },
+      {
+        "value": 184845,
+        "year": 1987
+      },
+      {
+        "value": 186891,
+        "year": 1988
+      },
+      {
+        "value": 196122,
+        "year": 1989
+      },
+      {
+        "value": 207038,
+        "year": 1990
+      },
+      {
+        "value": 207354,
+        "year": 1991
+      },
+      {
+        "value": 216718,
+        "year": 1992
+      },
+      {
+        "value": 226603,
+        "year": 1993
+      },
+      {
+        "value": 247504,
+        "year": 1994
+      },
+      {
+        "value": 270943,
+        "year": 1995
+      },
+      {
+        "value": 290940,
+        "year": 1996
+      },
+      {
+        "value": 313837,
+        "year": 1997
+      },
+      {
+        "value": 323973,
+        "year": 1998
+      },
+      {
+        "value": 330714,
+        "year": 1999
+      },
+      {
+        "value": 361425,
+        "year": 2000
+      },
+      {
+        "value": 363181,
+        "year": 2001
+      },
+      {
+        "value": 365913,
+        "year": 2002
+      },
+      {
+        "value": 385720,
+        "year": 2003
+      },
+      {
+        "value": 407921,
+        "year": 2004
+      },
+      {
+        "value": 430378,
+        "year": 2005
+      },
+      {
+        "value": 471697,
+        "year": 2006
+      },
+      {
+        "value": 489880,
+        "year": 2007
+      },
+      {
+        "value": 495451,
+        "year": 2008
+      },
+      {
+        "value": 452338,
+        "year": 2009
+      },
+      {
+        "value": 478555,
+        "year": 2010
+      },
+      {
+        "value": 506505,
+        "year": 2011
+      },
+      {
+        "value": 509954,
+        "year": 2012
+      },
+      {
+        "value": 515827,
+        "year": 2013
+      },
+      {
+        "value": 524340,
+        "year": 2014
+      },
+      {
+        "value": 549571,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 10,
+    "header": "Import volumes",
+    "title": "A23. Trade volumes ",
+    "unit": "£mn, Chained Volume measure, 2013 prices.  ",
+    "points": [
+      {
+        "value": 127765,
+        "year": 1979
+      },
+      {
+        "value": 123468,
+        "year": 1980
+      },
+      {
+        "value": 120173,
+        "year": 1981
+      },
+      {
+        "value": 126094,
+        "year": 1982
+      },
+      {
+        "value": 134361,
+        "year": 1983
+      },
+      {
+        "value": 147583,
+        "year": 1984
+      },
+      {
+        "value": 151306,
+        "year": 1985
+      },
+      {
+        "value": 161810,
+        "year": 1986
+      },
+      {
+        "value": 174782,
+        "year": 1987
+      },
+      {
+        "value": 197170,
+        "year": 1988
+      },
+      {
+        "value": 211867,
+        "year": 1989
+      },
+      {
+        "value": 213185,
+        "year": 1990
+      },
+      {
+        "value": 203993,
+        "year": 1991
+      },
+      {
+        "value": 217867,
+        "year": 1992
+      },
+      {
+        "value": 225184,
+        "year": 1993
+      },
+      {
+        "value": 238641,
+        "year": 1994
+      },
+      {
+        "value": 251901,
+        "year": 1995
+      },
+      {
+        "value": 275850,
+        "year": 1996
+      },
+      {
+        "value": 298665,
+        "year": 1997
+      },
+      {
+        "value": 326008,
+        "year": 1998
+      },
+      {
+        "value": 347635,
+        "year": 1999
+      },
+      {
+        "value": 379741,
+        "year": 2000
+      },
+      {
+        "value": 392150,
+        "year": 2001
+      },
+      {
+        "value": 408078,
+        "year": 2002
+      },
+      {
+        "value": 429096,
+        "year": 2003
+      },
+      {
+        "value": 460394,
+        "year": 2004
+      },
+      {
+        "value": 480161,
+        "year": 2005
+      },
+      {
+        "value": 515865,
+        "year": 2006
+      },
+      {
+        "value": 535235,
+        "year": 2007
+      },
+      {
+        "value": 525446,
+        "year": 2008
+      },
+      {
+        "value": 477277,
+        "year": 2009
+      },
+      {
+        "value": 516287,
+        "year": 2010
+      },
+      {
+        "value": 520431,
+        "year": 2011
+      },
+      {
+        "value": 536270,
+        "year": 2012
+      },
+      {
+        "value": 555065,
+        "year": 2013
+      },
+      {
+        "value": 570153,
+        "year": 2014
+      },
+      {
+        "value": 603563,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 11,
+    "header": "Nominal GDP at market prices",
+    "title": "A3. Nominal GDP (A) 1700-2015",
+    "unit": "£mn",
+    "points": [
+      {
+        "value": 219559,
+        "year": 1979
+      },
+      {
+        "value": 258411,
+        "year": 1980
+      },
+      {
+        "value": 287850,
+        "year": 1981
+      },
+      {
+        "value": 316698,
+        "year": 1982
+      },
+      {
+        "value": 348283,
+        "year": 1983
+      },
+      {
+        "value": 374534,
+        "year": 1984
+      },
+      {
+        "value": 412120,
+        "year": 1985
+      },
+      {
+        "value": 444033,
+        "year": 1986
+      },
+      {
+        "value": 492635,
+        "year": 1987
+      },
+      {
+        "value": 551709,
+        "year": 1988
+      },
+      {
+        "value": 609474,
+        "year": 1989
+      },
+      {
+        "value": 662850,
+        "year": 1990
+      },
+      {
+        "value": 698038,
+        "year": 1991
+      },
+      {
+        "value": 721445,
+        "year": 1992
+      },
+      {
+        "value": 758445,
+        "year": 1993
+      },
+      {
+        "value": 797088,
+        "year": 1994
+      },
+      {
+        "value": 836646,
+        "year": 1995
+      },
+      {
+        "value": 892900,
+        "year": 1996
+      },
+      {
+        "value": 938855,
+        "year": 1997
+      },
+      {
+        "value": 980308,
+        "year": 1998
+      },
+      {
+        "value": 1021205,
+        "year": 1999
+      },
+      {
+        "value": 1080863,
+        "year": 2000
+      },
+      {
+        "value": 1120575,
+        "year": 2001
+      },
+      {
+        "value": 1172652,
+        "year": 2002
+      },
+      {
+        "value": 1242449,
+        "year": 2003
+      },
+      {
+        "value": 1304874,
+        "year": 2004
+      },
+      {
+        "value": 1379457,
+        "year": 2005
+      },
+      {
+        "value": 1455644,
+        "year": 2006
+      },
+      {
+        "value": 1530890,
+        "year": 2007
+      },
+      {
+        "value": 1564252,
+        "year": 2008
+      },
+      {
+        "value": 1519459,
+        "year": 2009
+      },
+      {
+        "value": 1572439,
+        "year": 2010
+      },
+      {
+        "value": 1628274,
+        "year": 2011
+      },
+      {
+        "value": 1675044,
+        "year": 2012
+      },
+      {
+        "value": 1739563,
+        "year": 2013
+      },
+      {
+        "value": 1822480,
+        "year": 2014
+      },
+      {
+        "value": 1869560,
+        "year": 2015
+      }
+    ],
+    "section": "National Accounts"
+  },
+  {
+    "id": 12,
+    "header": "Population",
+    "title": "A4. Population ",
+    "unit": "000s",
+    "points": [
+      {
+        "value": 56240,
+        "year": 1979
+      },
+      {
+        "value": 56330,
+        "year": 1980
+      },
+      {
+        "value": 56358,
+        "year": 1981
+      },
+      {
+        "value": 56291,
+        "year": 1982
+      },
+      {
+        "value": 56316,
+        "year": 1983
+      },
+      {
+        "value": 56409,
+        "year": 1984
+      },
+      {
+        "value": 56554,
+        "year": 1985
+      },
+      {
+        "value": 56684,
+        "year": 1986
+      },
+      {
+        "value": 56804,
+        "year": 1987
+      },
+      {
+        "value": 56916,
+        "year": 1988
+      },
+      {
+        "value": 57077,
+        "year": 1989
+      },
+      {
+        "value": 57238,
+        "year": 1990
+      },
+      {
+        "value": 57439,
+        "year": 1991
+      },
+      {
+        "value": 57585,
+        "year": 1992
+      },
+      {
+        "value": 57714,
+        "year": 1993
+      },
+      {
+        "value": 57862,
+        "year": 1994
+      },
+      {
+        "value": 58025,
+        "year": 1995
+      },
+      {
+        "value": 58164,
+        "year": 1996
+      },
+      {
+        "value": 58314,
+        "year": 1997
+      },
+      {
+        "value": 58475,
+        "year": 1998
+      },
+      {
+        "value": 58684,
+        "year": 1999
+      },
+      {
+        "value": 58886,
+        "year": 2000
+      },
+      {
+        "value": 59113,
+        "year": 2001
+      },
+      {
+        "value": 59366,
+        "year": 2002
+      },
+      {
+        "value": 59637,
+        "year": 2003
+      },
+      {
+        "value": 59950,
+        "year": 2004
+      },
+      {
+        "value": 60413,
+        "year": 2005
+      },
+      {
+        "value": 60827,
+        "year": 2006
+      },
+      {
+        "value": 61319,
+        "year": 2007
+      },
+      {
+        "value": 61824,
+        "year": 2008
+      },
+      {
+        "value": 62260,
+        "year": 2009
+      },
+      {
+        "value": 62759,
+        "year": 2010
+      },
+      {
+        "value": 63285,
+        "year": 2011
+      },
+      {
+        "value": 63705,
+        "year": 2012
+      },
+      {
+        "value": 64106,
+        "year": 2013
+      },
+      {
+        "value": 64597,
+        "year": 2014
+      },
+      {
+        "value": 65097,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 13,
+    "header": "Employment",
+    "title": "A28. Employment",
+    "unit": "000s",
+    "points": [
+      {
+        "value": 25195,
+        "year": 1979
+      },
+      {
+        "value": 25086,
+        "year": 1980
+      },
+      {
+        "value": 24430,
+        "year": 1981
+      },
+      {
+        "value": 23951,
+        "year": 1982
+      },
+      {
+        "value": 23775,
+        "year": 1983
+      },
+      {
+        "value": 24285,
+        "year": 1984
+      },
+      {
+        "value": 24592,
+        "year": 1985
+      },
+      {
+        "value": 24746,
+        "year": 1986
+      },
+      {
+        "value": 25239,
+        "year": 1987
+      },
+      {
+        "value": 26070,
+        "year": 1988
+      },
+      {
+        "value": 26749,
+        "year": 1989
+      },
+      {
+        "value": 26871,
+        "year": 1990
+      },
+      {
+        "value": 26162,
+        "year": 1991
+      },
+      {
+        "value": 25540,
+        "year": 1992
+      },
+      {
+        "value": 25303,
+        "year": 1993
+      },
+      {
+        "value": 25504,
+        "year": 1994
+      },
+      {
+        "value": 25818,
+        "year": 1995
+      },
+      {
+        "value": 26060,
+        "year": 1996
+      },
+      {
+        "value": 26526,
+        "year": 1997
+      },
+      {
+        "value": 26795,
+        "year": 1998
+      },
+      {
+        "value": 27168,
+        "year": 1999
+      },
+      {
+        "value": 27484,
+        "year": 2000
+      },
+      {
+        "value": 27712,
+        "year": 2001
+      },
+      {
+        "value": 27944,
+        "year": 2002
+      },
+      {
+        "value": 28221,
+        "year": 2003
+      },
+      {
+        "value": 28530,
+        "year": 2004
+      },
+      {
+        "value": 28850,
+        "year": 2005
+      },
+      {
+        "value": 29138,
+        "year": 2006
+      },
+      {
+        "value": 29378,
+        "year": 2007
+      },
+      {
+        "value": 29628,
+        "year": 2008
+      },
+      {
+        "value": 29156,
+        "year": 2009
+      },
+      {
+        "value": 29228,
+        "year": 2010
+      },
+      {
+        "value": 29376,
+        "year": 2011
+      },
+      {
+        "value": 29696,
+        "year": 2012
+      },
+      {
+        "value": 30044,
+        "year": 2013
+      },
+      {
+        "value": 30757,
+        "year": 2014
+      },
+      {
+        "value": 31296,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 14,
+    "header": "Unemployment rate",
+    "title": "A28. Employment",
+    "unit": "%",
+    "points": [
+      {
+        "value": 5,
+        "year": 1979
+      },
+      {
+        "value": 6,
+        "year": 1980
+      },
+      {
+        "value": 9,
+        "year": 1981
+      },
+      {
+        "value": 10,
+        "year": 1982
+      },
+      {
+        "value": 11,
+        "year": 1983
+      },
+      {
+        "value": 11,
+        "year": 1984
+      },
+      {
+        "value": 11,
+        "year": 1985
+      },
+      {
+        "value": 11,
+        "year": 1986
+      },
+      {
+        "value": 10,
+        "year": 1987
+      },
+      {
+        "value": 8,
+        "year": 1988
+      },
+      {
+        "value": 7,
+        "year": 1989
+      },
+      {
+        "value": 7,
+        "year": 1990
+      },
+      {
+        "value": 8,
+        "year": 1991
+      },
+      {
+        "value": 9,
+        "year": 1992
+      },
+      {
+        "value": 10,
+        "year": 1993
+      },
+      {
+        "value": 9,
+        "year": 1994
+      },
+      {
+        "value": 8,
+        "year": 1995
+      },
+      {
+        "value": 8,
+        "year": 1996
+      },
+      {
+        "value": 6,
+        "year": 1997
+      },
+      {
+        "value": 6,
+        "year": 1998
+      },
+      {
+        "value": 5,
+        "year": 1999
+      },
+      {
+        "value": 5,
+        "year": 2000
+      },
+      {
+        "value": 5,
+        "year": 2001
+      },
+      {
+        "value": 5,
+        "year": 2002
+      },
+      {
+        "value": 5,
+        "year": 2003
+      },
+      {
+        "value": 4,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 5,
+        "year": 2006
+      },
+      {
+        "value": 5,
+        "year": 2007
+      },
+      {
+        "value": 5,
+        "year": 2008
+      },
+      {
+        "value": 7,
+        "year": 2009
+      },
+      {
+        "value": 7,
+        "year": 2010
+      },
+      {
+        "value": 8,
+        "year": 2011
+      },
+      {
+        "value": 7,
+        "year": 2012
+      },
+      {
+        "value": 7,
+        "year": 2013
+      },
+      {
+        "value": 6,
+        "year": 2014
+      },
+      {
+        "value": 5,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 15,
+    "header": "Average weekly hours worked",
+    "title": "A31. Hours worked",
+    "unit": "hours",
+    "points": [
+      {
+        "value": 34,
+        "year": 1979
+      },
+      {
+        "value": 33,
+        "year": 1980
+      },
+      {
+        "value": 33,
+        "year": 1981
+      },
+      {
+        "value": 33,
+        "year": 1982
+      },
+      {
+        "value": 33,
+        "year": 1983
+      },
+      {
+        "value": 33,
+        "year": 1984
+      },
+      {
+        "value": 33,
+        "year": 1985
+      },
+      {
+        "value": 33,
+        "year": 1986
+      },
+      {
+        "value": 33,
+        "year": 1987
+      },
+      {
+        "value": 33,
+        "year": 1988
+      },
+      {
+        "value": 33,
+        "year": 1989
+      },
+      {
+        "value": 33,
+        "year": 1990
+      },
+      {
+        "value": 32,
+        "year": 1991
+      },
+      {
+        "value": 32,
+        "year": 1992
+      },
+      {
+        "value": 32,
+        "year": 1993
+      },
+      {
+        "value": 33,
+        "year": 1994
+      },
+      {
+        "value": 33,
+        "year": 1995
+      },
+      {
+        "value": 33,
+        "year": 1996
+      },
+      {
+        "value": 33,
+        "year": 1997
+      },
+      {
+        "value": 32,
+        "year": 1998
+      },
+      {
+        "value": 32,
+        "year": 1999
+      },
+      {
+        "value": 32,
+        "year": 2000
+      },
+      {
+        "value": 32,
+        "year": 2001
+      },
+      {
+        "value": 32,
+        "year": 2002
+      },
+      {
+        "value": 31,
+        "year": 2003
+      },
+      {
+        "value": 32,
+        "year": 2004
+      },
+      {
+        "value": 32,
+        "year": 2005
+      },
+      {
+        "value": 32,
+        "year": 2006
+      },
+      {
+        "value": 31,
+        "year": 2007
+      },
+      {
+        "value": 31,
+        "year": 2008
+      },
+      {
+        "value": 31,
+        "year": 2009
+      },
+      {
+        "value": 31,
+        "year": 2010
+      },
+      {
+        "value": 31,
+        "year": 2011
+      },
+      {
+        "value": 31,
+        "year": 2012
+      },
+      {
+        "value": 32,
+        "year": 2013
+      },
+      {
+        "value": 32,
+        "year": 2014
+      },
+      {
+        "value": 32,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 16,
+    "header": "Capital Services, whole economy",
+    "title": "A32. Capital stock 1851-2014",
+    "unit": "£mn, 2012 prices",
+    "points": [
+      {
+        "value": 100719,
+        "year": 1979
+      },
+      {
+        "value": 103387,
+        "year": 1980
+      },
+      {
+        "value": 104637,
+        "year": 1981
+      },
+      {
+        "value": 106294,
+        "year": 1982
+      },
+      {
+        "value": 108800,
+        "year": 1983
+      },
+      {
+        "value": 111546,
+        "year": 1984
+      },
+      {
+        "value": 114679,
+        "year": 1985
+      },
+      {
+        "value": 118302,
+        "year": 1986
+      },
+      {
+        "value": 123733,
+        "year": 1987
+      },
+      {
+        "value": 130196,
+        "year": 1988
+      },
+      {
+        "value": 136951,
+        "year": 1989
+      },
+      {
+        "value": 143304,
+        "year": 1990
+      },
+      {
+        "value": 149352,
+        "year": 1991
+      },
+      {
+        "value": 153595,
+        "year": 1992
+      },
+      {
+        "value": 159060,
+        "year": 1993
+      },
+      {
+        "value": 165265,
+        "year": 1994
+      },
+      {
+        "value": 172427,
+        "year": 1995
+      },
+      {
+        "value": 179937,
+        "year": 1996
+      },
+      {
+        "value": 189352,
+        "year": 1997
+      },
+      {
+        "value": 199606,
+        "year": 1998
+      },
+      {
+        "value": 209258,
+        "year": 1999
+      },
+      {
+        "value": 219282,
+        "year": 2000
+      },
+      {
+        "value": 227917,
+        "year": 2001
+      },
+      {
+        "value": 236686,
+        "year": 2002
+      },
+      {
+        "value": 245882,
+        "year": 2003
+      },
+      {
+        "value": 255092,
+        "year": 2004
+      },
+      {
+        "value": 264296,
+        "year": 2005
+      },
+      {
+        "value": 272764,
+        "year": 2006
+      },
+      {
+        "value": 283709,
+        "year": 2007
+      },
+      {
+        "value": 293020,
+        "year": 2008
+      },
+      {
+        "value": 296248,
+        "year": 2009
+      },
+      {
+        "value": 301258,
+        "year": 2010
+      },
+      {
+        "value": 307212,
+        "year": 2011
+      },
+      {
+        "value": 313989,
+        "year": 2012
+      },
+      {
+        "value": 320289,
+        "year": 2013
+      },
+      {
+        "value": 326969,
+        "year": 2014
+      },
+      {
+        "value": 334617,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 17,
+    "header": "TFP growth",
+    "title": "A33. Productivity 1855-2014",
+    "unit": "%",
+    "points": [
+      {
+        "value": 2,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 1,
+        "year": 1981
+      },
+      {
+        "value": 3,
+        "year": 1982
+      },
+      {
+        "value": 4,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 2,
+        "year": 1985
+      },
+      {
+        "value": 1,
+        "year": 1986
+      },
+      {
+        "value": 2,
+        "year": 1987
+      },
+      {
+        "value": 1,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 1,
+        "year": 1992
+      },
+      {
+        "value": 2,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 1,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 1,
+        "year": 2000
+      },
+      {
+        "value": 1,
+        "year": 2001
+      },
+      {
+        "value": 1,
+        "year": 2002
+      },
+      {
+        "value": 2,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 1,
+        "year": 2005
+      },
+      {
+        "value": 1,
+        "year": 2006
+      },
+      {
+        "value": 1,
+        "year": 2007
+      },
+      {
+        "value": -1,
+        "year": 2008
+      },
+      {
+        "value": -2,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 0,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 18,
+    "header": "Labour productivity",
+    "title": "A33. Productivity 1855-2015",
+    "unit": "Real GDP per head, 2013 prices",
+    "points": [
+      {
+        "value": 66,
+        "year": 1979
+      },
+      {
+        "value": 65,
+        "year": 1980
+      },
+      {
+        "value": 66,
+        "year": 1981
+      },
+      {
+        "value": 69,
+        "year": 1982
+      },
+      {
+        "value": 72,
+        "year": 1983
+      },
+      {
+        "value": 72,
+        "year": 1984
+      },
+      {
+        "value": 74,
+        "year": 1985
+      },
+      {
+        "value": 76,
+        "year": 1986
+      },
+      {
+        "value": 78,
+        "year": 1987
+      },
+      {
+        "value": 80,
+        "year": 1988
+      },
+      {
+        "value": 80,
+        "year": 1989
+      },
+      {
+        "value": 80,
+        "year": 1990
+      },
+      {
+        "value": 82,
+        "year": 1991
+      },
+      {
+        "value": 84,
+        "year": 1992
+      },
+      {
+        "value": 87,
+        "year": 1993
+      },
+      {
+        "value": 90,
+        "year": 1994
+      },
+      {
+        "value": 91,
+        "year": 1995
+      },
+      {
+        "value": 92,
+        "year": 1996
+      },
+      {
+        "value": 93,
+        "year": 1997
+      },
+      {
+        "value": 95,
+        "year": 1998
+      },
+      {
+        "value": 97,
+        "year": 1999
+      },
+      {
+        "value": 100,
+        "year": 2000
+      },
+      {
+        "value": 101,
+        "year": 2001
+      },
+      {
+        "value": 102,
+        "year": 2002
+      },
+      {
+        "value": 105,
+        "year": 2003
+      },
+      {
+        "value": 106,
+        "year": 2004
+      },
+      {
+        "value": 109,
+        "year": 2005
+      },
+      {
+        "value": 110,
+        "year": 2006
+      },
+      {
+        "value": 112,
+        "year": 2007
+      },
+      {
+        "value": 111,
+        "year": 2008
+      },
+      {
+        "value": 107,
+        "year": 2009
+      },
+      {
+        "value": 109,
+        "year": 2010
+      },
+      {
+        "value": 110,
+        "year": 2011
+      },
+      {
+        "value": 110,
+        "year": 2012
+      },
+      {
+        "value": 111,
+        "year": 2013
+      },
+      {
+        "value": 112,
+        "year": 2014
+      },
+      {
+        "value": 112,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 19,
+    "header": "Labour share, whole economy excluding rents",
+    "title": "A33. Productivity 1855-2016",
+    "unit": "share of GDP excluding rents",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 0,
+        "year": 2005
+      },
+      {
+        "value": 0,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 0,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Labour, Capitol & Productivity"
+  },
+  {
+    "id": 20,
+    "header": "GDP deflator at market prices",
+    "title": "A26. Wages and prices",
+    "unit": "2013=1",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 0,
+        "year": 2005
+      },
+      {
+        "value": 0,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 1,
+        "year": 2014
+      },
+      {
+        "value": 1,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 21,
+    "header": "Export prices",
+    "title": "A23. Trade volumes ",
+    "unit": "2013=1",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 0,
+        "year": 2005
+      },
+      {
+        "value": 0,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 22,
+    "header": "Import prices",
+    "title": "A23. Trade volumes ",
+    "unit": "2013=1",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 0,
+        "year": 2003
+      },
+      {
+        "value": 0,
+        "year": 2004
+      },
+      {
+        "value": 0,
+        "year": 2005
+      },
+      {
+        "value": 0,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 1,
+        "year": 2011
+      },
+      {
+        "value": 1,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 23,
+    "header": "Terms of Trade",
+    "title": "A23. Trade volumes ",
+    "unit": "2013=1",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 0,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 0,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": 0,
+        "year": 2002
+      },
+      {
+        "value": 1,
+        "year": 2003
+      },
+      {
+        "value": 1,
+        "year": 2004
+      },
+      {
+        "value": 1,
+        "year": 2005
+      },
+      {
+        "value": 1,
+        "year": 2006
+      },
+      {
+        "value": 0,
+        "year": 2007
+      },
+      {
+        "value": 0,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 1,
+        "year": 2014
+      },
+      {
+        "value": 1,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 24,
+    "header": "$ Oil prices",
+    "title": "A23. Trade volumes ",
+    "unit": "$ per barrel",
+    "points": [
+      {
+        "value": 31,
+        "year": 1979
+      },
+      {
+        "value": 36,
+        "year": 1980
+      },
+      {
+        "value": 35,
+        "year": 1981
+      },
+      {
+        "value": 32,
+        "year": 1982
+      },
+      {
+        "value": 29,
+        "year": 1983
+      },
+      {
+        "value": 28,
+        "year": 1984
+      },
+      {
+        "value": 27,
+        "year": 1985
+      },
+      {
+        "value": 14,
+        "year": 1986
+      },
+      {
+        "value": 18,
+        "year": 1987
+      },
+      {
+        "value": 14,
+        "year": 1988
+      },
+      {
+        "value": 18,
+        "year": 1989
+      },
+      {
+        "value": 23,
+        "year": 1990
+      },
+      {
+        "value": 20,
+        "year": 1991
+      },
+      {
+        "value": 19,
+        "year": 1992
+      },
+      {
+        "value": 16,
+        "year": 1993
+      },
+      {
+        "value": 15,
+        "year": 1994
+      },
+      {
+        "value": 17,
+        "year": 1995
+      },
+      {
+        "value": 20,
+        "year": 1996
+      },
+      {
+        "value": 19,
+        "year": 1997
+      },
+      {
+        "value": 12,
+        "year": 1998
+      },
+      {
+        "value": 17,
+        "year": 1999
+      },
+      {
+        "value": 28,
+        "year": 2000
+      },
+      {
+        "value": 24,
+        "year": 2001
+      },
+      {
+        "value": 25,
+        "year": 2002
+      },
+      {
+        "value": 28,
+        "year": 2003
+      },
+      {
+        "value": 38,
+        "year": 2004
+      },
+      {
+        "value": 54,
+        "year": 2005
+      },
+      {
+        "value": 65,
+        "year": 2006
+      },
+      {
+        "value": 72,
+        "year": 2007
+      },
+      {
+        "value": 97,
+        "year": 2008
+      },
+      {
+        "value": 61,
+        "year": 2009
+      },
+      {
+        "value": 79,
+        "year": 2010
+      },
+      {
+        "value": 111,
+        "year": 2011
+      },
+      {
+        "value": 111,
+        "year": 2012
+      },
+      {
+        "value": 108,
+        "year": 2013
+      },
+      {
+        "value": 98,
+        "year": 2014
+      },
+      {
+        "value": 52,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 25,
+    "header": "Earnings per head",
+    "title": "A26. Wages and prices",
+    "unit": "Average weekly earnings, £",
+    "points": [
+      {
+        "value": 68,
+        "year": 1979
+      },
+      {
+        "value": 83,
+        "year": 1980
+      },
+      {
+        "value": 95,
+        "year": 1981
+      },
+      {
+        "value": 104,
+        "year": 1982
+      },
+      {
+        "value": 113,
+        "year": 1983
+      },
+      {
+        "value": 120,
+        "year": 1984
+      },
+      {
+        "value": 131,
+        "year": 1985
+      },
+      {
+        "value": 141,
+        "year": 1986
+      },
+      {
+        "value": 153,
+        "year": 1987
+      },
+      {
+        "value": 167,
+        "year": 1988
+      },
+      {
+        "value": 183,
+        "year": 1989
+      },
+      {
+        "value": 202,
+        "year": 1990
+      },
+      {
+        "value": 218,
+        "year": 1991
+      },
+      {
+        "value": 231,
+        "year": 1992
+      },
+      {
+        "value": 238,
+        "year": 1993
+      },
+      {
+        "value": 247,
+        "year": 1994
+      },
+      {
+        "value": 255,
+        "year": 1995
+      },
+      {
+        "value": 264,
+        "year": 1996
+      },
+      {
+        "value": 276,
+        "year": 1997
+      },
+      {
+        "value": 290,
+        "year": 1998
+      },
+      {
+        "value": 303,
+        "year": 1999
+      },
+      {
+        "value": 317,
+        "year": 2000
+      },
+      {
+        "value": 334,
+        "year": 2001
+      },
+      {
+        "value": 344,
+        "year": 2002
+      },
+      {
+        "value": 355,
+        "year": 2003
+      },
+      {
+        "value": 371,
+        "year": 2004
+      },
+      {
+        "value": 388,
+        "year": 2005
+      },
+      {
+        "value": 406,
+        "year": 2006
+      },
+      {
+        "value": 426,
+        "year": 2007
+      },
+      {
+        "value": 441,
+        "year": 2008
+      },
+      {
+        "value": 441,
+        "year": 2009
+      },
+      {
+        "value": 451,
+        "year": 2010
+      },
+      {
+        "value": 462,
+        "year": 2011
+      },
+      {
+        "value": 468,
+        "year": 2012
+      },
+      {
+        "value": 473,
+        "year": 2013
+      },
+      {
+        "value": 479,
+        "year": 2014
+      },
+      {
+        "value": 491,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 26,
+    "header": "Consumer price index",
+    "title": "A26. Wages and prices",
+    "unit": "2005=100",
+    "points": [
+      {
+        "value": 28,
+        "year": 1979
+      },
+      {
+        "value": 32,
+        "year": 1980
+      },
+      {
+        "value": 36,
+        "year": 1981
+      },
+      {
+        "value": 39,
+        "year": 1982
+      },
+      {
+        "value": 41,
+        "year": 1983
+      },
+      {
+        "value": 42,
+        "year": 1984
+      },
+      {
+        "value": 44,
+        "year": 1985
+      },
+      {
+        "value": 46,
+        "year": 1986
+      },
+      {
+        "value": 47,
+        "year": 1987
+      },
+      {
+        "value": 49,
+        "year": 1988
+      },
+      {
+        "value": 52,
+        "year": 1989
+      },
+      {
+        "value": 55,
+        "year": 1990
+      },
+      {
+        "value": 60,
+        "year": 1991
+      },
+      {
+        "value": 62,
+        "year": 1992
+      },
+      {
+        "value": 64,
+        "year": 1993
+      },
+      {
+        "value": 65,
+        "year": 1994
+      },
+      {
+        "value": 67,
+        "year": 1995
+      },
+      {
+        "value": 68,
+        "year": 1996
+      },
+      {
+        "value": 70,
+        "year": 1997
+      },
+      {
+        "value": 71,
+        "year": 1998
+      },
+      {
+        "value": 72,
+        "year": 1999
+      },
+      {
+        "value": 72,
+        "year": 2000
+      },
+      {
+        "value": 73,
+        "year": 2001
+      },
+      {
+        "value": 74,
+        "year": 2002
+      },
+      {
+        "value": 75,
+        "year": 2003
+      },
+      {
+        "value": 76,
+        "year": 2004
+      },
+      {
+        "value": 78,
+        "year": 2005
+      },
+      {
+        "value": 79,
+        "year": 2006
+      },
+      {
+        "value": 81,
+        "year": 2007
+      },
+      {
+        "value": 84,
+        "year": 2008
+      },
+      {
+        "value": 86,
+        "year": 2009
+      },
+      {
+        "value": 89,
+        "year": 2010
+      },
+      {
+        "value": 93,
+        "year": 2011
+      },
+      {
+        "value": 96,
+        "year": 2012
+      },
+      {
+        "value": 98,
+        "year": 2013
+      },
+      {
+        "value": 99,
+        "year": 2014
+      },
+      {
+        "value": 100,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 27,
+    "header": "Consumer price inflation",
+    "title": "A26. Wages and prices",
+    "unit": "%",
+    "points": [
+      {
+        "value": 11,
+        "year": 1979
+      },
+      {
+        "value": 15,
+        "year": 1980
+      },
+      {
+        "value": 11,
+        "year": 1981
+      },
+      {
+        "value": 8,
+        "year": 1982
+      },
+      {
+        "value": 4,
+        "year": 1983
+      },
+      {
+        "value": 4,
+        "year": 1984
+      },
+      {
+        "value": 4,
+        "year": 1985
+      },
+      {
+        "value": 3,
+        "year": 1986
+      },
+      {
+        "value": 3,
+        "year": 1987
+      },
+      {
+        "value": 3,
+        "year": 1988
+      },
+      {
+        "value": 5,
+        "year": 1989
+      },
+      {
+        "value": 6,
+        "year": 1990
+      },
+      {
+        "value": 7,
+        "year": 1991
+      },
+      {
+        "value": 4,
+        "year": 1992
+      },
+      {
+        "value": 2,
+        "year": 1993
+      },
+      {
+        "value": 1,
+        "year": 1994
+      },
+      {
+        "value": 2,
+        "year": 1995
+      },
+      {
+        "value": 2,
+        "year": 1996
+      },
+      {
+        "value": 1,
+        "year": 1997
+      },
+      {
+        "value": 1,
+        "year": 1998
+      },
+      {
+        "value": 1,
+        "year": 1999
+      },
+      {
+        "value": 0,
+        "year": 2000
+      },
+      {
+        "value": 1,
+        "year": 2001
+      },
+      {
+        "value": 1,
+        "year": 2002
+      },
+      {
+        "value": 1,
+        "year": 2003
+      },
+      {
+        "value": 1,
+        "year": 2004
+      },
+      {
+        "value": 2,
+        "year": 2005
+      },
+      {
+        "value": 2,
+        "year": 2006
+      },
+      {
+        "value": 2,
+        "year": 2007
+      },
+      {
+        "value": 3,
+        "year": 2008
+      },
+      {
+        "value": 2,
+        "year": 2009
+      },
+      {
+        "value": 3,
+        "year": 2010
+      },
+      {
+        "value": 4,
+        "year": 2011
+      },
+      {
+        "value": 2,
+        "year": 2012
+      },
+      {
+        "value": 2,
+        "year": 2013
+      },
+      {
+        "value": 1,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 28,
+    "header": "Wholesale/producer price index",
+    "title": "A26. Wages and prices",
+    "unit": "2010=100",
+    "points": [
+      {
+        "value": 32,
+        "year": 1979
+      },
+      {
+        "value": 38,
+        "year": 1980
+      },
+      {
+        "value": 42,
+        "year": 1981
+      },
+      {
+        "value": 45,
+        "year": 1982
+      },
+      {
+        "value": 48,
+        "year": 1983
+      },
+      {
+        "value": 51,
+        "year": 1984
+      },
+      {
+        "value": 54,
+        "year": 1985
+      },
+      {
+        "value": 55,
+        "year": 1986
+      },
+      {
+        "value": 57,
+        "year": 1987
+      },
+      {
+        "value": 59,
+        "year": 1988
+      },
+      {
+        "value": 62,
+        "year": 1989
+      },
+      {
+        "value": 66,
+        "year": 1990
+      },
+      {
+        "value": 69,
+        "year": 1991
+      },
+      {
+        "value": 71,
+        "year": 1992
+      },
+      {
+        "value": 74,
+        "year": 1993
+      },
+      {
+        "value": 76,
+        "year": 1994
+      },
+      {
+        "value": 79,
+        "year": 1995
+      },
+      {
+        "value": 81,
+        "year": 1996
+      },
+      {
+        "value": 82,
+        "year": 1997
+      },
+      {
+        "value": 82,
+        "year": 1998
+      },
+      {
+        "value": 83,
+        "year": 1999
+      },
+      {
+        "value": 84,
+        "year": 2000
+      },
+      {
+        "value": 84,
+        "year": 2001
+      },
+      {
+        "value": 83,
+        "year": 2002
+      },
+      {
+        "value": 84,
+        "year": 2003
+      },
+      {
+        "value": 85,
+        "year": 2004
+      },
+      {
+        "value": 87,
+        "year": 2005
+      },
+      {
+        "value": 88,
+        "year": 2006
+      },
+      {
+        "value": 90,
+        "year": 2007
+      },
+      {
+        "value": 96,
+        "year": 2008
+      },
+      {
+        "value": 97,
+        "year": 2009
+      },
+      {
+        "value": 100,
+        "year": 2010
+      },
+      {
+        "value": 104,
+        "year": 2011
+      },
+      {
+        "value": 106,
+        "year": 2012
+      },
+      {
+        "value": 108,
+        "year": 2013
+      },
+      {
+        "value": 108,
+        "year": 2014
+      },
+      {
+        "value": 106,
+        "year": 2015
+      }
+    ],
+    "section": "Wages & Prices"
+  },
+  {
+    "id": 29,
+    "header": "Bank rate",
+    "title": "A19. Interest rates  ",
+    "unit": "% end period",
+    "points": [
+      {
+        "value": 17,
+        "year": 1979
+      },
+      {
+        "value": 14,
+        "year": 1980
+      },
+      {
+        "value": 14,
+        "year": 1981
+      },
+      {
+        "value": 10,
+        "year": 1982
+      },
+      {
+        "value": 9,
+        "year": 1983
+      },
+      {
+        "value": 9,
+        "year": 1984
+      },
+      {
+        "value": 11,
+        "year": 1985
+      },
+      {
+        "value": 11,
+        "year": 1986
+      },
+      {
+        "value": 8,
+        "year": 1987
+      },
+      {
+        "value": 13,
+        "year": 1988
+      },
+      {
+        "value": 15,
+        "year": 1989
+      },
+      {
+        "value": 14,
+        "year": 1990
+      },
+      {
+        "value": 10,
+        "year": 1991
+      },
+      {
+        "value": 7,
+        "year": 1992
+      },
+      {
+        "value": 5,
+        "year": 1993
+      },
+      {
+        "value": 6,
+        "year": 1994
+      },
+      {
+        "value": 6,
+        "year": 1995
+      },
+      {
+        "value": 6,
+        "year": 1996
+      },
+      {
+        "value": 7,
+        "year": 1997
+      },
+      {
+        "value": 6,
+        "year": 1998
+      },
+      {
+        "value": 5,
+        "year": 1999
+      },
+      {
+        "value": 6,
+        "year": 2000
+      },
+      {
+        "value": 4,
+        "year": 2001
+      },
+      {
+        "value": 4,
+        "year": 2002
+      },
+      {
+        "value": 3,
+        "year": 2003
+      },
+      {
+        "value": 4,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 5,
+        "year": 2006
+      },
+      {
+        "value": 5,
+        "year": 2007
+      },
+      {
+        "value": 2,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 0,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 30,
+    "header": "Bank rate (yr avg)",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 14,
+        "year": 1979
+      },
+      {
+        "value": 16,
+        "year": 1980
+      },
+      {
+        "value": 13,
+        "year": 1981
+      },
+      {
+        "value": 11,
+        "year": 1982
+      },
+      {
+        "value": 9,
+        "year": 1983
+      },
+      {
+        "value": 9,
+        "year": 1984
+      },
+      {
+        "value": 12,
+        "year": 1985
+      },
+      {
+        "value": 10,
+        "year": 1986
+      },
+      {
+        "value": 9,
+        "year": 1987
+      },
+      {
+        "value": 10,
+        "year": 1988
+      },
+      {
+        "value": 13,
+        "year": 1989
+      },
+      {
+        "value": 14,
+        "year": 1990
+      },
+      {
+        "value": 11,
+        "year": 1991
+      },
+      {
+        "value": 9,
+        "year": 1992
+      },
+      {
+        "value": 5,
+        "year": 1993
+      },
+      {
+        "value": 5,
+        "year": 1994
+      },
+      {
+        "value": 6,
+        "year": 1995
+      },
+      {
+        "value": 5,
+        "year": 1996
+      },
+      {
+        "value": 6,
+        "year": 1997
+      },
+      {
+        "value": 7,
+        "year": 1998
+      },
+      {
+        "value": 5,
+        "year": 1999
+      },
+      {
+        "value": 5,
+        "year": 2000
+      },
+      {
+        "value": 5,
+        "year": 2001
+      },
+      {
+        "value": 4,
+        "year": 2002
+      },
+      {
+        "value": 3,
+        "year": 2003
+      },
+      {
+        "value": 4,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 4,
+        "year": 2006
+      },
+      {
+        "value": 5,
+        "year": 2007
+      },
+      {
+        "value": 4,
+        "year": 2008
+      },
+      {
+        "value": 0,
+        "year": 2009
+      },
+      {
+        "value": 0,
+        "year": 2010
+      },
+      {
+        "value": 0,
+        "year": 2011
+      },
+      {
+        "value": 0,
+        "year": 2012
+      },
+      {
+        "value": 0,
+        "year": 2013
+      },
+      {
+        "value": 0,
+        "year": 2014
+      },
+      {
+        "value": 0,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 31,
+    "header": "10 year/medium-term government bond yields",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 12,
+        "year": 1979
+      },
+      {
+        "value": 13,
+        "year": 1980
+      },
+      {
+        "value": 14,
+        "year": 1981
+      },
+      {
+        "value": 13,
+        "year": 1982
+      },
+      {
+        "value": 11,
+        "year": 1983
+      },
+      {
+        "value": 11,
+        "year": 1984
+      },
+      {
+        "value": 10,
+        "year": 1985
+      },
+      {
+        "value": 10,
+        "year": 1986
+      },
+      {
+        "value": 9,
+        "year": 1987
+      },
+      {
+        "value": 9,
+        "year": 1988
+      },
+      {
+        "value": 10,
+        "year": 1989
+      },
+      {
+        "value": 11,
+        "year": 1990
+      },
+      {
+        "value": 10,
+        "year": 1991
+      },
+      {
+        "value": 9,
+        "year": 1992
+      },
+      {
+        "value": 7,
+        "year": 1993
+      },
+      {
+        "value": 8,
+        "year": 1994
+      },
+      {
+        "value": 8,
+        "year": 1995
+      },
+      {
+        "value": 7,
+        "year": 1996
+      },
+      {
+        "value": 7,
+        "year": 1997
+      },
+      {
+        "value": 5,
+        "year": 1998
+      },
+      {
+        "value": 5,
+        "year": 1999
+      },
+      {
+        "value": 5,
+        "year": 2000
+      },
+      {
+        "value": 4,
+        "year": 2001
+      },
+      {
+        "value": 4,
+        "year": 2002
+      },
+      {
+        "value": 4,
+        "year": 2003
+      },
+      {
+        "value": 4,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 4,
+        "year": 2006
+      },
+      {
+        "value": 4,
+        "year": 2007
+      },
+      {
+        "value": 4,
+        "year": 2008
+      },
+      {
+        "value": 3,
+        "year": 2009
+      },
+      {
+        "value": 3,
+        "year": 2010
+      },
+      {
+        "value": 3,
+        "year": 2011
+      },
+      {
+        "value": 1,
+        "year": 2012
+      },
+      {
+        "value": 2,
+        "year": 2013
+      },
+      {
+        "value": 2,
+        "year": 2014
+      },
+      {
+        "value": 1,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 32,
+    "header": "Consols / long-term government bond yields",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 11,
+        "year": 1979
+      },
+      {
+        "value": 11,
+        "year": 1980
+      },
+      {
+        "value": 13,
+        "year": 1981
+      },
+      {
+        "value": 11,
+        "year": 1982
+      },
+      {
+        "value": 10,
+        "year": 1983
+      },
+      {
+        "value": 10,
+        "year": 1984
+      },
+      {
+        "value": 10,
+        "year": 1985
+      },
+      {
+        "value": 9,
+        "year": 1986
+      },
+      {
+        "value": 9,
+        "year": 1987
+      },
+      {
+        "value": 9,
+        "year": 1988
+      },
+      {
+        "value": 9,
+        "year": 1989
+      },
+      {
+        "value": 10,
+        "year": 1990
+      },
+      {
+        "value": 9,
+        "year": 1991
+      },
+      {
+        "value": 9,
+        "year": 1992
+      },
+      {
+        "value": 7,
+        "year": 1993
+      },
+      {
+        "value": 8,
+        "year": 1994
+      },
+      {
+        "value": 8,
+        "year": 1995
+      },
+      {
+        "value": 8,
+        "year": 1996
+      },
+      {
+        "value": 7,
+        "year": 1997
+      },
+      {
+        "value": 5,
+        "year": 1998
+      },
+      {
+        "value": 4,
+        "year": 1999
+      },
+      {
+        "value": 4,
+        "year": 2000
+      },
+      {
+        "value": 5,
+        "year": 2001
+      },
+      {
+        "value": 5,
+        "year": 2002
+      },
+      {
+        "value": 4,
+        "year": 2003
+      },
+      {
+        "value": 4,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 4,
+        "year": 2006
+      },
+      {
+        "value": 4,
+        "year": 2007
+      },
+      {
+        "value": 4,
+        "year": 2008
+      },
+      {
+        "value": 4,
+        "year": 2009
+      },
+      {
+        "value": 4,
+        "year": 2010
+      },
+      {
+        "value": 4,
+        "year": 2011
+      },
+      {
+        "value": 3,
+        "year": 2012
+      },
+      {
+        "value": 4,
+        "year": 2013
+      },
+      {
+        "value": 4,
+        "year": 2014
+      },
+      {
+        "value": 2,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 33,
+    "header": "Mortgage rates",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 11,
+        "year": 1979
+      },
+      {
+        "value": 14,
+        "year": 1980
+      },
+      {
+        "value": 14,
+        "year": 1981
+      },
+      {
+        "value": 13,
+        "year": 1982
+      },
+      {
+        "value": 11,
+        "year": 1983
+      },
+      {
+        "value": 11,
+        "year": 1984
+      },
+      {
+        "value": 13,
+        "year": 1985
+      },
+      {
+        "value": 11,
+        "year": 1986
+      },
+      {
+        "value": 11,
+        "year": 1987
+      },
+      {
+        "value": 11,
+        "year": 1988
+      },
+      {
+        "value": 13,
+        "year": 1989
+      },
+      {
+        "value": 15,
+        "year": 1990
+      },
+      {
+        "value": 12,
+        "year": 1991
+      },
+      {
+        "value": 10,
+        "year": 1992
+      },
+      {
+        "value": 8,
+        "year": 1993
+      },
+      {
+        "value": 7,
+        "year": 1994
+      },
+      {
+        "value": 7,
+        "year": 1995
+      },
+      {
+        "value": 6,
+        "year": 1996
+      },
+      {
+        "value": 7,
+        "year": 1997
+      },
+      {
+        "value": 7,
+        "year": 1998
+      },
+      {
+        "value": 6,
+        "year": 1999
+      },
+      {
+        "value": 7,
+        "year": 2000
+      },
+      {
+        "value": 6,
+        "year": 2001
+      },
+      {
+        "value": 5,
+        "year": 2002
+      },
+      {
+        "value": 4,
+        "year": 2003
+      },
+      {
+        "value": 5,
+        "year": 2004
+      },
+      {
+        "value": 5,
+        "year": 2005
+      },
+      {
+        "value": 5,
+        "year": 2006
+      },
+      {
+        "value": 5,
+        "year": 2007
+      },
+      {
+        "value": 5,
+        "year": 2008
+      },
+      {
+        "value": 3,
+        "year": 2009
+      },
+      {
+        "value": 3,
+        "year": 2010
+      },
+      {
+        "value": 3,
+        "year": 2011
+      },
+      {
+        "value": 3,
+        "year": 2012
+      },
+      {
+        "value": 3,
+        "year": 2013
+      },
+      {
+        "value": 3,
+        "year": 2014
+      },
+      {
+        "value": 2,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 34,
+    "header": "Corporate borrowing rate from banks",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 16,
+        "year": 1979
+      },
+      {
+        "value": 18,
+        "year": 1980
+      },
+      {
+        "value": 15,
+        "year": 1981
+      },
+      {
+        "value": 14,
+        "year": 1982
+      },
+      {
+        "value": 11,
+        "year": 1983
+      },
+      {
+        "value": 11,
+        "year": 1984
+      },
+      {
+        "value": 14,
+        "year": 1985
+      },
+      {
+        "value": 13,
+        "year": 1986
+      },
+      {
+        "value": 11,
+        "year": 1987
+      },
+      {
+        "value": 11,
+        "year": 1988
+      },
+      {
+        "value": 15,
+        "year": 1989
+      },
+      {
+        "value": 16,
+        "year": 1990
+      },
+      {
+        "value": 13,
+        "year": 1991
+      },
+      {
+        "value": 11,
+        "year": 1992
+      },
+      {
+        "value": 8,
+        "year": 1993
+      },
+      {
+        "value": 7,
+        "year": 1994
+      },
+      {
+        "value": 8,
+        "year": 1995
+      },
+      {
+        "value": 7,
+        "year": 1996
+      },
+      {
+        "value": 8,
+        "year": 1997
+      },
+      {
+        "value": 8,
+        "year": 1998
+      },
+      {
+        "value": 7,
+        "year": 1999
+      },
+      {
+        "value": 7,
+        "year": 2000
+      },
+      {
+        "value": 6,
+        "year": 2001
+      },
+      {
+        "value": 5,
+        "year": 2002
+      },
+      {
+        "value": 5,
+        "year": 2003
+      },
+      {
+        "value": 6,
+        "year": 2004
+      },
+      {
+        "value": 6,
+        "year": 2005
+      },
+      {
+        "value": 6,
+        "year": 2006
+      },
+      {
+        "value": 6,
+        "year": 2007
+      },
+      {
+        "value": 6,
+        "year": 2008
+      },
+      {
+        "value": 3,
+        "year": 2009
+      },
+      {
+        "value": 2,
+        "year": 2010
+      },
+      {
+        "value": 2,
+        "year": 2011
+      },
+      {
+        "value": 3,
+        "year": 2012
+      },
+      {
+        "value": 3,
+        "year": 2013
+      },
+      {
+        "value": 3,
+        "year": 2014
+      },
+      {
+        "value": 3,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 35,
+    "header": "Corporate bond yields",
+    "title": "A19. Interest rates  ",
+    "unit": "%, calendar year average",
+    "points": [
+      {
+        "value": 13,
+        "year": 1979
+      },
+      {
+        "value": 14,
+        "year": 1980
+      },
+      {
+        "value": 15,
+        "year": 1981
+      },
+      {
+        "value": 13,
+        "year": 1982
+      },
+      {
+        "value": 12,
+        "year": 1983
+      },
+      {
+        "value": 11,
+        "year": 1984
+      },
+      {
+        "value": 11,
+        "year": 1985
+      },
+      {
+        "value": 10,
+        "year": 1986
+      },
+      {
+        "value": 10,
+        "year": 1987
+      },
+      {
+        "value": 10,
+        "year": 1988
+      },
+      {
+        "value": 11,
+        "year": 1989
+      },
+      {
+        "value": 12,
+        "year": 1990
+      },
+      {
+        "value": 11,
+        "year": 1991
+      },
+      {
+        "value": 10,
+        "year": 1992
+      },
+      {
+        "value": 8,
+        "year": 1993
+      },
+      {
+        "value": 9,
+        "year": 1994
+      },
+      {
+        "value": 8,
+        "year": 1995
+      },
+      {
+        "value": 8,
+        "year": 1996
+      },
+      {
+        "value": 7,
+        "year": 1997
+      },
+      {
+        "value": 6,
+        "year": 1998
+      },
+      {
+        "value": 6,
+        "year": 1999
+      },
+      {
+        "value": 6,
+        "year": 2000
+      },
+      {
+        "value": 6,
+        "year": 2001
+      },
+      {
+        "value": 6,
+        "year": 2002
+      },
+      {
+        "value": 5,
+        "year": 2003
+      },
+      {
+        "value": 5,
+        "year": 2004
+      },
+      {
+        "value": 5,
+        "year": 2005
+      },
+      {
+        "value": 5,
+        "year": 2006
+      },
+      {
+        "value": 6,
+        "year": 2007
+      },
+      {
+        "value": 6,
+        "year": 2008
+      },
+      {
+        "value": 6,
+        "year": 2009
+      },
+      {
+        "value": 4,
+        "year": 2010
+      },
+      {
+        "value": 4,
+        "year": 2011
+      },
+      {
+        "value": 3,
+        "year": 2012
+      },
+      {
+        "value": 3,
+        "year": 2013
+      },
+      {
+        "value": 3,
+        "year": 2014
+      },
+      {
+        "value": 3,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 36,
+    "header": "Share prices",
+    "title": "A19. Interest rates  ",
+    "unit": "April 1962=100, Year end",
+    "points": [
+      {
+        "value": 230,
+        "year": 1979
+      },
+      {
+        "value": 292,
+        "year": 1980
+      },
+      {
+        "value": 310,
+        "year": 1981
+      },
+      {
+        "value": 379,
+        "year": 1982
+      },
+      {
+        "value": 464,
+        "year": 1983
+      },
+      {
+        "value": 577,
+        "year": 1984
+      },
+      {
+        "value": 674,
+        "year": 1985
+      },
+      {
+        "value": 817,
+        "year": 1986
+      },
+      {
+        "value": 844,
+        "year": 1987
+      },
+      {
+        "value": 914,
+        "year": 1988
+      },
+      {
+        "value": 1175,
+        "year": 1989
+      },
+      {
+        "value": 1040,
+        "year": 1990
+      },
+      {
+        "value": 1156,
+        "year": 1991
+      },
+      {
+        "value": 1324,
+        "year": 1992
+      },
+      {
+        "value": 1628,
+        "year": 1993
+      },
+      {
+        "value": 1502,
+        "year": 1994
+      },
+      {
+        "value": 1783,
+        "year": 1995
+      },
+      {
+        "value": 1976,
+        "year": 1996
+      },
+      {
+        "value": 2388,
+        "year": 1997
+      },
+      {
+        "value": 2595,
+        "year": 1998
+      },
+      {
+        "value": 3146,
+        "year": 1999
+      },
+      {
+        "value": 2989,
+        "year": 2000
+      },
+      {
+        "value": 2507,
+        "year": 2001
+      },
+      {
+        "value": 1900,
+        "year": 2002
+      },
+      {
+        "value": 2168,
+        "year": 2003
+      },
+      {
+        "value": 2372,
+        "year": 2004
+      },
+      {
+        "value": 2805,
+        "year": 2005
+      },
+      {
+        "value": 3189,
+        "year": 2006
+      },
+      {
+        "value": 3267,
+        "year": 2007
+      },
+      {
+        "value": 2128,
+        "year": 2008
+      },
+      {
+        "value": 2708,
+        "year": 2009
+      },
+      {
+        "value": 3039,
+        "year": 2010
+      },
+      {
+        "value": 2814,
+        "year": 2011
+      },
+      {
+        "value": 3099,
+        "year": 2012
+      },
+      {
+        "value": 3514,
+        "year": 2013
+      },
+      {
+        "value": 3511,
+        "year": 2014
+      },
+      {
+        "value": 3401,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 37,
+    "header": "$/£ exchange rate",
+    "title": "A21. Exchange rates",
+    "unit": "Calendar year average",
+    "points": [
+      {
+        "value": 2,
+        "year": 1979
+      },
+      {
+        "value": 2,
+        "year": 1980
+      },
+      {
+        "value": 2,
+        "year": 1981
+      },
+      {
+        "value": 1,
+        "year": 1982
+      },
+      {
+        "value": 1,
+        "year": 1983
+      },
+      {
+        "value": 1,
+        "year": 1984
+      },
+      {
+        "value": 1,
+        "year": 1985
+      },
+      {
+        "value": 1,
+        "year": 1986
+      },
+      {
+        "value": 1,
+        "year": 1987
+      },
+      {
+        "value": 1,
+        "year": 1988
+      },
+      {
+        "value": 1,
+        "year": 1989
+      },
+      {
+        "value": 1,
+        "year": 1990
+      },
+      {
+        "value": 1,
+        "year": 1991
+      },
+      {
+        "value": 1,
+        "year": 1992
+      },
+      {
+        "value": 1,
+        "year": 1993
+      },
+      {
+        "value": 1,
+        "year": 1994
+      },
+      {
+        "value": 1,
+        "year": 1995
+      },
+      {
+        "value": 1,
+        "year": 1996
+      },
+      {
+        "value": 1,
+        "year": 1997
+      },
+      {
+        "value": 1,
+        "year": 1998
+      },
+      {
+        "value": 1,
+        "year": 1999
+      },
+      {
+        "value": 1,
+        "year": 2000
+      },
+      {
+        "value": 1,
+        "year": 2001
+      },
+      {
+        "value": 1,
+        "year": 2002
+      },
+      {
+        "value": 1,
+        "year": 2003
+      },
+      {
+        "value": 1,
+        "year": 2004
+      },
+      {
+        "value": 1,
+        "year": 2005
+      },
+      {
+        "value": 1,
+        "year": 2006
+      },
+      {
+        "value": 2,
+        "year": 2007
+      },
+      {
+        "value": 1,
+        "year": 2008
+      },
+      {
+        "value": 1,
+        "year": 2009
+      },
+      {
+        "value": 1,
+        "year": 2010
+      },
+      {
+        "value": 1,
+        "year": 2011
+      },
+      {
+        "value": 1,
+        "year": 2012
+      },
+      {
+        "value": 1,
+        "year": 2013
+      },
+      {
+        "value": 1,
+        "year": 2014
+      },
+      {
+        "value": 1,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 38,
+    "header": "Real $/£ exchange rate",
+    "title": "A21. Exchange rates",
+    "unit": "Calendar year average, 1913=100",
+    "points": [
+      {
+        "value": 130,
+        "year": 1979
+      },
+      {
+        "value": 144,
+        "year": 1980
+      },
+      {
+        "value": 127,
+        "year": 1981
+      },
+      {
+        "value": 112,
+        "year": 1982
+      },
+      {
+        "value": 99,
+        "year": 1983
+      },
+      {
+        "value": 87,
+        "year": 1984
+      },
+      {
+        "value": 85,
+        "year": 1985
+      },
+      {
+        "value": 98,
+        "year": 1986
+      },
+      {
+        "value": 109,
+        "year": 1987
+      },
+      {
+        "value": 118,
+        "year": 1988
+      },
+      {
+        "value": 109,
+        "year": 1989
+      },
+      {
+        "value": 121,
+        "year": 1990
+      },
+      {
+        "value": 123,
+        "year": 1991
+      },
+      {
+        "value": 125,
+        "year": 1992
+      },
+      {
+        "value": 105,
+        "year": 1993
+      },
+      {
+        "value": 107,
+        "year": 1994
+      },
+      {
+        "value": 110,
+        "year": 1995
+      },
+      {
+        "value": 108,
+        "year": 1996
+      },
+      {
+        "value": 113,
+        "year": 1997
+      },
+      {
+        "value": 114,
+        "year": 1998
+      },
+      {
+        "value": 111,
+        "year": 1999
+      },
+      {
+        "value": 101,
+        "year": 2000
+      },
+      {
+        "value": 94,
+        "year": 2001
+      },
+      {
+        "value": 98,
+        "year": 2002
+      },
+      {
+        "value": 106,
+        "year": 2003
+      },
+      {
+        "value": 117,
+        "year": 2004
+      },
+      {
+        "value": 115,
+        "year": 2005
+      },
+      {
+        "value": 115,
+        "year": 2006
+      },
+      {
+        "value": 125,
+        "year": 2007
+      },
+      {
+        "value": 115,
+        "year": 2008
+      },
+      {
+        "value": 100,
+        "year": 2009
+      },
+      {
+        "value": 100,
+        "year": 2010
+      },
+      {
+        "value": 105,
+        "year": 2011
+      },
+      {
+        "value": 105,
+        "year": 2012
+      },
+      {
+        "value": 104,
+        "year": 2013
+      },
+      {
+        "value": 110,
+        "year": 2014
+      },
+      {
+        "value": 102,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 39,
+    "header": "Nominal ERI",
+    "title": "A21. Exchange rates",
+    "unit": "Calendar year average, 1913=100",
+    "points": [
+      {
+        "value": 41,
+        "year": 1979
+      },
+      {
+        "value": 45,
+        "year": 1980
+      },
+      {
+        "value": 46,
+        "year": 1981
+      },
+      {
+        "value": 44,
+        "year": 1982
+      },
+      {
+        "value": 41,
+        "year": 1983
+      },
+      {
+        "value": 39,
+        "year": 1984
+      },
+      {
+        "value": 39,
+        "year": 1985
+      },
+      {
+        "value": 37,
+        "year": 1986
+      },
+      {
+        "value": 37,
+        "year": 1987
+      },
+      {
+        "value": 39,
+        "year": 1988
+      },
+      {
+        "value": 38,
+        "year": 1989
+      },
+      {
+        "value": 38,
+        "year": 1990
+      },
+      {
+        "value": 38,
+        "year": 1991
+      },
+      {
+        "value": 37,
+        "year": 1992
+      },
+      {
+        "value": 33,
+        "year": 1993
+      },
+      {
+        "value": 34,
+        "year": 1994
+      },
+      {
+        "value": 32,
+        "year": 1995
+      },
+      {
+        "value": 33,
+        "year": 1996
+      },
+      {
+        "value": 38,
+        "year": 1997
+      },
+      {
+        "value": 39,
+        "year": 1998
+      },
+      {
+        "value": 39,
+        "year": 1999
+      },
+      {
+        "value": 40,
+        "year": 2000
+      },
+      {
+        "value": 39,
+        "year": 2001
+      },
+      {
+        "value": 39,
+        "year": 2002
+      },
+      {
+        "value": 38,
+        "year": 2003
+      },
+      {
+        "value": 40,
+        "year": 2004
+      },
+      {
+        "value": 39,
+        "year": 2005
+      },
+      {
+        "value": 40,
+        "year": 2006
+      },
+      {
+        "value": 41,
+        "year": 2007
+      },
+      {
+        "value": 36,
+        "year": 2008
+      },
+      {
+        "value": 32,
+        "year": 2009
+      },
+      {
+        "value": 31,
+        "year": 2010
+      },
+      {
+        "value": 31,
+        "year": 2011
+      },
+      {
+        "value": 33,
+        "year": 2012
+      },
+      {
+        "value": 32,
+        "year": 2013
+      },
+      {
+        "value": 34,
+        "year": 2014
+      },
+      {
+        "value": 36,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 40,
+    "header": "Real ERI",
+    "title": "A21. Exchange rates",
+    "unit": "Calendar year average, 1913=100",
+    "points": [
+      {
+        "value": 72,
+        "year": 1979
+      },
+      {
+        "value": 81,
+        "year": 1980
+      },
+      {
+        "value": 83,
+        "year": 1981
+      },
+      {
+        "value": 79,
+        "year": 1982
+      },
+      {
+        "value": 72,
+        "year": 1983
+      },
+      {
+        "value": 68,
+        "year": 1984
+      },
+      {
+        "value": 68,
+        "year": 1985
+      },
+      {
+        "value": 63,
+        "year": 1986
+      },
+      {
+        "value": 62,
+        "year": 1987
+      },
+      {
+        "value": 66,
+        "year": 1988
+      },
+      {
+        "value": 64,
+        "year": 1989
+      },
+      {
+        "value": 65,
+        "year": 1990
+      },
+      {
+        "value": 67,
+        "year": 1991
+      },
+      {
+        "value": 66,
+        "year": 1992
+      },
+      {
+        "value": 59,
+        "year": 1993
+      },
+      {
+        "value": 59,
+        "year": 1994
+      },
+      {
+        "value": 57,
+        "year": 1995
+      },
+      {
+        "value": 58,
+        "year": 1996
+      },
+      {
+        "value": 67,
+        "year": 1997
+      },
+      {
+        "value": 70,
+        "year": 1998
+      },
+      {
+        "value": 69,
+        "year": 1999
+      },
+      {
+        "value": 70,
+        "year": 2000
+      },
+      {
+        "value": 68,
+        "year": 2001
+      },
+      {
+        "value": 68,
+        "year": 2002
+      },
+      {
+        "value": 65,
+        "year": 2003
+      },
+      {
+        "value": 67,
+        "year": 2004
+      },
+      {
+        "value": 66,
+        "year": 2005
+      },
+      {
+        "value": 67,
+        "year": 2006
+      },
+      {
+        "value": 68,
+        "year": 2007
+      },
+      {
+        "value": 60,
+        "year": 2008
+      },
+      {
+        "value": 54,
+        "year": 2009
+      },
+      {
+        "value": 55,
+        "year": 2010
+      },
+      {
+        "value": 55,
+        "year": 2011
+      },
+      {
+        "value": 58,
+        "year": 2012
+      },
+      {
+        "value": 57,
+        "year": 2013
+      },
+      {
+        "value": 61,
+        "year": 2014
+      },
+      {
+        "value": 65,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 41,
+    "header": "House price index",
+    "title": "A20. Property prices",
+    "unit": "Calendar year average, Jan 2015 =100",
+    "points": [
+      {
+        "value": 9,
+        "year": 1979
+      },
+      {
+        "value": 11,
+        "year": 1980
+      },
+      {
+        "value": 11,
+        "year": 1981
+      },
+      {
+        "value": 11,
+        "year": 1982
+      },
+      {
+        "value": 13,
+        "year": 1983
+      },
+      {
+        "value": 14,
+        "year": 1984
+      },
+      {
+        "value": 15,
+        "year": 1985
+      },
+      {
+        "value": 17,
+        "year": 1986
+      },
+      {
+        "value": 20,
+        "year": 1987
+      },
+      {
+        "value": 26,
+        "year": 1988
+      },
+      {
+        "value": 31,
+        "year": 1989
+      },
+      {
+        "value": 31,
+        "year": 1990
+      },
+      {
+        "value": 30,
+        "year": 1991
+      },
+      {
+        "value": 29,
+        "year": 1992
+      },
+      {
+        "value": 29,
+        "year": 1993
+      },
+      {
+        "value": 29,
+        "year": 1994
+      },
+      {
+        "value": 29,
+        "year": 1995
+      },
+      {
+        "value": 30,
+        "year": 1996
+      },
+      {
+        "value": 33,
+        "year": 1997
+      },
+      {
+        "value": 37,
+        "year": 1998
+      },
+      {
+        "value": 41,
+        "year": 1999
+      },
+      {
+        "value": 47,
+        "year": 2000
+      },
+      {
+        "value": 52,
+        "year": 2001
+      },
+      {
+        "value": 60,
+        "year": 2002
+      },
+      {
+        "value": 69,
+        "year": 2003
+      },
+      {
+        "value": 77,
+        "year": 2004
+      },
+      {
+        "value": 81,
+        "year": 2005
+      },
+      {
+        "value": 88,
+        "year": 2006
+      },
+      {
+        "value": 97,
+        "year": 2007
+      },
+      {
+        "value": 92,
+        "year": 2008
+      },
+      {
+        "value": 84,
+        "year": 2009
+      },
+      {
+        "value": 89,
+        "year": 2010
+      },
+      {
+        "value": 88,
+        "year": 2011
+      },
+      {
+        "value": 88,
+        "year": 2012
+      },
+      {
+        "value": 90,
+        "year": 2013
+      },
+      {
+        "value": 97,
+        "year": 2014
+      },
+      {
+        "value": 103,
+        "year": 2015
+      }
+    ],
+    "section": "Financial Markets"
+  },
+  {
+    "id": 42,
+    "header": "Credit ",
+    "title": "A15. Credit aggregates",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 56340,
+        "year": 1979
+      },
+      {
+        "value": 67126,
+        "year": 1980
+      },
+      {
+        "value": 79262,
+        "year": 1981
+      },
+      {
+        "value": 96134,
+        "year": 1982
+      },
+      {
+        "value": 111336,
+        "year": 1983
+      },
+      {
+        "value": 131343,
+        "year": 1984
+      },
+      {
+        "value": 153800,
+        "year": 1985
+      },
+      {
+        "value": 184420,
+        "year": 1986
+      },
+      {
+        "value": 219491,
+        "year": 1987
+      },
+      {
+        "value": 273134,
+        "year": 1988
+      },
+      {
+        "value": 331439,
+        "year": 1989
+      },
+      {
+        "value": 378011,
+        "year": 1990
+      },
+      {
+        "value": 402741,
+        "year": 1991
+      },
+      {
+        "value": 419618,
+        "year": 1992
+      },
+      {
+        "value": 435945,
+        "year": 1993
+      },
+      {
+        "value": 458951,
+        "year": 1994
+      },
+      {
+        "value": 498225,
+        "year": 1995
+      },
+      {
+        "value": 542518,
+        "year": 1996
+      },
+      {
+        "value": 591082,
+        "year": 1997
+      },
+      {
+        "value": 636708,
+        "year": 1998
+      },
+      {
+        "value": 694567,
+        "year": 1999
+      },
+      {
+        "value": 777528,
+        "year": 2000
+      },
+      {
+        "value": 843671,
+        "year": 2001
+      },
+      {
+        "value": 923679,
+        "year": 2002
+      },
+      {
+        "value": 1026396,
+        "year": 2003
+      },
+      {
+        "value": 1144664,
+        "year": 2004
+      },
+      {
+        "value": 1277441,
+        "year": 2005
+      },
+      {
+        "value": 1459972,
+        "year": 2006
+      },
+      {
+        "value": 1603558,
+        "year": 2007
+      },
+      {
+        "value": 1707008,
+        "year": 2008
+      },
+      {
+        "value": 1692679,
+        "year": 2009
+      },
+      {
+        "value": 1677698,
+        "year": 2010
+      },
+      {
+        "value": 1701677,
+        "year": 2011
+      },
+      {
+        "value": 1691767,
+        "year": 2012
+      },
+      {
+        "value": 1701078,
+        "year": 2013
+      },
+      {
+        "value": 1728701,
+        "year": 2014
+      },
+      {
+        "value": 1788541,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 43,
+    "header": "Secured credit",
+    "title": "A15. Credit aggregates",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 35234,
+        "year": 1979
+      },
+      {
+        "value": 40801,
+        "year": 1980
+      },
+      {
+        "value": 48489,
+        "year": 1981
+      },
+      {
+        "value": 60194,
+        "year": 1982
+      },
+      {
+        "value": 72953,
+        "year": 1983
+      },
+      {
+        "value": 87512,
+        "year": 1984
+      },
+      {
+        "value": 103716,
+        "year": 1985
+      },
+      {
+        "value": 124874,
+        "year": 1986
+      },
+      {
+        "value": 147487,
+        "year": 1987
+      },
+      {
+        "value": 178426,
+        "year": 1988
+      },
+      {
+        "value": 206212,
+        "year": 1989
+      },
+      {
+        "value": 233552,
+        "year": 1990
+      },
+      {
+        "value": 256387,
+        "year": 1991
+      },
+      {
+        "value": 274937,
+        "year": 1992
+      },
+      {
+        "value": 291516,
+        "year": 1993
+      },
+      {
+        "value": 309719,
+        "year": 1994
+      },
+      {
+        "value": 324414,
+        "year": 1995
+      },
+      {
+        "value": 342443,
+        "year": 1996
+      },
+      {
+        "value": 362214,
+        "year": 1997
+      },
+      {
+        "value": 382393,
+        "year": 1998
+      },
+      {
+        "value": 412155,
+        "year": 1999
+      },
+      {
+        "value": 443665,
+        "year": 2000
+      },
+      {
+        "value": 485135,
+        "year": 2001
+      },
+      {
+        "value": 547486,
+        "year": 2002
+      },
+      {
+        "value": 623193,
+        "year": 2003
+      },
+      {
+        "value": 697886,
+        "year": 2004
+      },
+      {
+        "value": 764717,
+        "year": 2005
+      },
+      {
+        "value": 848576,
+        "year": 2006
+      },
+      {
+        "value": 927135,
+        "year": 2007
+      },
+      {
+        "value": 980340,
+        "year": 2008
+      },
+      {
+        "value": 1003242,
+        "year": 2009
+      },
+      {
+        "value": 1016804,
+        "year": 2010
+      },
+      {
+        "value": 1028215,
+        "year": 2011
+      },
+      {
+        "value": 1039022,
+        "year": 2012
+      },
+      {
+        "value": 1052087,
+        "year": 2013
+      },
+      {
+        "value": 1076945,
+        "year": 2014
+      },
+      {
+        "value": 1110176,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 44,
+    "header": "Bank of England Balance sheet",
+    "title": "A13. BoE Balance sheet ",
+    "unit": "% of nominal GDP",
+    "points": [
+      {
+        "value": 5,
+        "year": 1979
+      },
+      {
+        "value": 5,
+        "year": 1980
+      },
+      {
+        "value": 4,
+        "year": 1981
+      },
+      {
+        "value": 4,
+        "year": 1982
+      },
+      {
+        "value": 5,
+        "year": 1983
+      },
+      {
+        "value": 4,
+        "year": 1984
+      },
+      {
+        "value": 5,
+        "year": 1985
+      },
+      {
+        "value": 4,
+        "year": 1986
+      },
+      {
+        "value": 3,
+        "year": 1987
+      },
+      {
+        "value": 3,
+        "year": 1988
+      },
+      {
+        "value": 3,
+        "year": 1989
+      },
+      {
+        "value": 3,
+        "year": 1990
+      },
+      {
+        "value": 2,
+        "year": 1991
+      },
+      {
+        "value": 2,
+        "year": 1992
+      },
+      {
+        "value": 3,
+        "year": 1993
+      },
+      {
+        "value": 3,
+        "year": 1994
+      },
+      {
+        "value": 3,
+        "year": 1995
+      },
+      {
+        "value": 3,
+        "year": 1996
+      },
+      {
+        "value": 3,
+        "year": 1997
+      },
+      {
+        "value": 3,
+        "year": 1998
+      },
+      {
+        "value": 10,
+        "year": 1999
+      },
+      {
+        "value": 7,
+        "year": 2000
+      },
+      {
+        "value": 3,
+        "year": 2001
+      },
+      {
+        "value": 3,
+        "year": 2002
+      },
+      {
+        "value": 3,
+        "year": 2003
+      },
+      {
+        "value": 3,
+        "year": 2004
+      },
+      {
+        "value": 4,
+        "year": 2005
+      },
+      {
+        "value": 4,
+        "year": 2006
+      },
+      {
+        "value": 5,
+        "year": 2007
+      },
+      {
+        "value": 6,
+        "year": 2008
+      },
+      {
+        "value": 10,
+        "year": 2009
+      },
+      {
+        "value": 16,
+        "year": 2010
+      },
+      {
+        "value": 15,
+        "year": 2011
+      },
+      {
+        "value": 19,
+        "year": 2012
+      },
+      {
+        "value": 24,
+        "year": 2013
+      },
+      {
+        "value": 23,
+        "year": 2014
+      },
+      {
+        "value": 22,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 45,
+    "header": "Notes and coin in circulation",
+    "title": "A14. Money",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 10463,
+        "year": 1979
+      },
+      {
+        "value": 11032,
+        "year": 1980
+      },
+      {
+        "value": 11633,
+        "year": 1981
+      },
+      {
+        "value": 12023,
+        "year": 1982
+      },
+      {
+        "value": 12799,
+        "year": 1983
+      },
+      {
+        "value": 13480,
+        "year": 1984
+      },
+      {
+        "value": 13980,
+        "year": 1985
+      },
+      {
+        "value": 14680,
+        "year": 1986
+      },
+      {
+        "value": 15455,
+        "year": 1987
+      },
+      {
+        "value": 16635,
+        "year": 1988
+      },
+      {
+        "value": 17613,
+        "year": 1989
+      },
+      {
+        "value": 18108,
+        "year": 1990
+      },
+      {
+        "value": 18626,
+        "year": 1991
+      },
+      {
+        "value": 19311,
+        "year": 1992
+      },
+      {
+        "value": 20350,
+        "year": 1993
+      },
+      {
+        "value": 21652,
+        "year": 1994
+      },
+      {
+        "value": 22855,
+        "year": 1995
+      },
+      {
+        "value": 24422,
+        "year": 1996
+      },
+      {
+        "value": 26018,
+        "year": 1997
+      },
+      {
+        "value": 27550,
+        "year": 1998
+      },
+      {
+        "value": 30773,
+        "year": 1999
+      },
+      {
+        "value": 32213,
+        "year": 2000
+      },
+      {
+        "value": 34847,
+        "year": 2001
+      },
+      {
+        "value": 37036,
+        "year": 2002
+      },
+      {
+        "value": 39852,
+        "year": 2003
+      },
+      {
+        "value": 42187,
+        "year": 2004
+      },
+      {
+        "value": 43624,
+        "year": 2005
+      },
+      {
+        "value": 45852,
+        "year": 2006
+      },
+      {
+        "value": 48587,
+        "year": 2007
+      },
+      {
+        "value": 52086,
+        "year": 2008
+      },
+      {
+        "value": 55695,
+        "year": 2009
+      },
+      {
+        "value": 57841,
+        "year": 2010
+      },
+      {
+        "value": 60896,
+        "year": 2011
+      },
+      {
+        "value": 63506,
+        "year": 2012
+      },
+      {
+        "value": 66590,
+        "year": 2013
+      },
+      {
+        "value": 70433,
+        "year": 2014
+      },
+      {
+        "value": 74303,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 46,
+    "header": "Monetary base",
+    "title": "A14. Money",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 10671,
+        "year": 1979
+      },
+      {
+        "value": 11300,
+        "year": 1980
+      },
+      {
+        "value": 11920,
+        "year": 1981
+      },
+      {
+        "value": 12275,
+        "year": 1982
+      },
+      {
+        "value": 12966,
+        "year": 1983
+      },
+      {
+        "value": 13711,
+        "year": 1984
+      },
+      {
+        "value": 14256,
+        "year": 1985
+      },
+      {
+        "value": 15016,
+        "year": 1986
+      },
+      {
+        "value": 15727,
+        "year": 1987
+      },
+      {
+        "value": 16818,
+        "year": 1988
+      },
+      {
+        "value": 17867,
+        "year": 1989
+      },
+      {
+        "value": 18272,
+        "year": 1990
+      },
+      {
+        "value": 18901,
+        "year": 1991
+      },
+      {
+        "value": 19529,
+        "year": 1992
+      },
+      {
+        "value": 20626,
+        "year": 1993
+      },
+      {
+        "value": 21862,
+        "year": 1994
+      },
+      {
+        "value": 23141,
+        "year": 1995
+      },
+      {
+        "value": 24668,
+        "year": 1996
+      },
+      {
+        "value": 26268,
+        "year": 1997
+      },
+      {
+        "value": 27899,
+        "year": 1998
+      },
+      {
+        "value": 31093,
+        "year": 1999
+      },
+      {
+        "value": 32515,
+        "year": 2000
+      },
+      {
+        "value": 35000,
+        "year": 2001
+      },
+      {
+        "value": 37238,
+        "year": 2002
+      },
+      {
+        "value": 40001,
+        "year": 2003
+      },
+      {
+        "value": 42284,
+        "year": 2004
+      },
+      {
+        "value": 44273,
+        "year": 2005
+      },
+      {
+        "value": 66057,
+        "year": 2006
+      },
+      {
+        "value": 72455,
+        "year": 2007
+      },
+      {
+        "value": 95184,
+        "year": 2008
+      },
+      {
+        "value": 201525,
+        "year": 2009
+      },
+      {
+        "value": 197794,
+        "year": 2010
+      },
+      {
+        "value": 224801,
+        "year": 2011
+      },
+      {
+        "value": 339190,
+        "year": 2012
+      },
+      {
+        "value": 365418,
+        "year": 2013
+      },
+      {
+        "value": 371020,
+        "year": 2014
+      },
+      {
+        "value": 380161,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 47,
+    "header": "M1",
+    "title": "A14. Money",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 30545,
+        "year": 1979
+      },
+      {
+        "value": 31894,
+        "year": 1980
+      },
+      {
+        "value": 35601,
+        "year": 1981
+      },
+      {
+        "value": 39799,
+        "year": 1982
+      },
+      {
+        "value": 44290,
+        "year": 1983
+      },
+      {
+        "value": 51367,
+        "year": 1984
+      },
+      {
+        "value": 61129,
+        "year": 1985
+      },
+      {
+        "value": 75427,
+        "year": 1986
+      },
+      {
+        "value": 92780,
+        "year": 1987
+      },
+      {
+        "value": 105968,
+        "year": 1988
+      },
+      {
+        "value": 124257,
+        "year": 1989
+      },
+      {
+        "value": 132876,
+        "year": 1990
+      },
+      {
+        "value": 137986,
+        "year": 1991
+      },
+      {
+        "value": 142918,
+        "year": 1992
+      },
+      {
+        "value": 152065,
+        "year": 1993
+      },
+      {
+        "value": 156882,
+        "year": 1994
+      },
+      {
+        "value": 175694,
+        "year": 1995
+      },
+      {
+        "value": 188667,
+        "year": 1996
+      },
+      {
+        "value": 210881,
+        "year": 1997
+      },
+      {
+        "value": 227894,
+        "year": 1998
+      },
+      {
+        "value": 247986,
+        "year": 1999
+      },
+      {
+        "value": 274679,
+        "year": 2000
+      },
+      {
+        "value": 304711,
+        "year": 2001
+      },
+      {
+        "value": 332839,
+        "year": 2002
+      },
+      {
+        "value": 368301,
+        "year": 2003
+      },
+      {
+        "value": 412436,
+        "year": 2004
+      },
+      {
+        "value": 465647,
+        "year": 2005
+      },
+      {
+        "value": 510370,
+        "year": 2006
+      },
+      {
+        "value": 544207,
+        "year": 2007
+      },
+      {
+        "value": 534070,
+        "year": 2008
+      },
+      {
+        "value": 574448,
+        "year": 2009
+      },
+      {
+        "value": 580110,
+        "year": 2010
+      },
+      {
+        "value": 578402,
+        "year": 2011
+      },
+      {
+        "value": 617937,
+        "year": 2012
+      },
+      {
+        "value": 683436,
+        "year": 2013
+      },
+      {
+        "value": 733695,
+        "year": 2014
+      },
+      {
+        "value": 778788,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 48,
+    "header": "Broad Money ",
+    "title": "A14. Money",
+    "unit": "Year end, £mn",
+    "points": [
+      {
+        "value": 90492,
+        "year": 1979
+      },
+      {
+        "value": 106113,
+        "year": 1980
+      },
+      {
+        "value": 121016,
+        "year": 1981
+      },
+      {
+        "value": 136198,
+        "year": 1982
+      },
+      {
+        "value": 154221,
+        "year": 1983
+      },
+      {
+        "value": 175160,
+        "year": 1984
+      },
+      {
+        "value": 200965,
+        "year": 1985
+      },
+      {
+        "value": 232665,
+        "year": 1986
+      },
+      {
+        "value": 271477,
+        "year": 1987
+      },
+      {
+        "value": 318082,
+        "year": 1988
+      },
+      {
+        "value": 375616,
+        "year": 1989
+      },
+      {
+        "value": 420633,
+        "year": 1990
+      },
+      {
+        "value": 445744,
+        "year": 1991
+      },
+      {
+        "value": 461223,
+        "year": 1992
+      },
+      {
+        "value": 481653,
+        "year": 1993
+      },
+      {
+        "value": 504427,
+        "year": 1994
+      },
+      {
+        "value": 553817,
+        "year": 1995
+      },
+      {
+        "value": 606199,
+        "year": 1996
+      },
+      {
+        "value": 677503,
+        "year": 1997
+      },
+      {
+        "value": 738514,
+        "year": 1998
+      },
+      {
+        "value": 767789,
+        "year": 1999
+      },
+      {
+        "value": 828418,
+        "year": 2000
+      },
+      {
+        "value": 881556,
+        "year": 2001
+      },
+      {
+        "value": 941366,
+        "year": 2002
+      },
+      {
+        "value": 1002568,
+        "year": 2003
+      },
+      {
+        "value": 1075387,
+        "year": 2004
+      },
+      {
+        "value": 1181076,
+        "year": 2005
+      },
+      {
+        "value": 1299462,
+        "year": 2006
+      },
+      {
+        "value": 1437619,
+        "year": 2007
+      },
+      {
+        "value": 1491132,
+        "year": 2008
+      },
+      {
+        "value": 1511668,
+        "year": 2009
+      },
+      {
+        "value": 1549702,
+        "year": 2010
+      },
+      {
+        "value": 1571576,
+        "year": 2011
+      },
+      {
+        "value": 1653953,
+        "year": 2012
+      },
+      {
+        "value": 1715789,
+        "year": 2013
+      },
+      {
+        "value": 1790649,
+        "year": 2014
+      },
+      {
+        "value": 1859360,
+        "year": 2015
+      }
+    ],
+    "section": "Money & Credit"
+  },
+  {
+    "id": 49,
+    "header": "Public sector Total Managed Expenditure",
+    "title": "A16. Fiscal data ",
+    "unit": "Calendar year total, £mn",
+    "points": [
+      {
+        "value": 90104,
+        "year": 1979
+      },
+      {
+        "value": 110261,
+        "year": 1980
+      },
+      {
+        "value": 124851,
+        "year": 1981
+      },
+      {
+        "value": 137565,
+        "year": 1982
+      },
+      {
+        "value": 150793,
+        "year": 1983
+      },
+      {
+        "value": 160718,
+        "year": 1984
+      },
+      {
+        "value": 170456,
+        "year": 1985
+      },
+      {
+        "value": 176928,
+        "year": 1986
+      },
+      {
+        "value": 185608,
+        "year": 1987
+      },
+      {
+        "value": 193956,
+        "year": 1988
+      },
+      {
+        "value": 211023,
+        "year": 1989
+      },
+      {
+        "value": 231923,
+        "year": 1990
+      },
+      {
+        "value": 252469,
+        "year": 1991
+      },
+      {
+        "value": 277024,
+        "year": 1992
+      },
+      {
+        "value": 290623,
+        "year": 1993
+      },
+      {
+        "value": 302771,
+        "year": 1994
+      },
+      {
+        "value": 317775,
+        "year": 1995
+      },
+      {
+        "value": 321511,
+        "year": 1996
+      },
+      {
+        "value": 327764,
+        "year": 1997
+      },
+      {
+        "value": 339147,
+        "year": 1998
+      },
+      {
+        "value": 348663,
+        "year": 1999
+      },
+      {
+        "value": 368706,
+        "year": 2000
+      },
+      {
+        "value": 392195,
+        "year": 2001
+      },
+      {
+        "value": 422708,
+        "year": 2002
+      },
+      {
+        "value": 459591,
+        "year": 2003
+      },
+      {
+        "value": 496075,
+        "year": 2004
+      },
+      {
+        "value": 535252,
+        "year": 2005
+      },
+      {
+        "value": 561928,
+        "year": 2006
+      },
+      {
+        "value": 591455,
+        "year": 2007
+      },
+      {
+        "value": 643148,
+        "year": 2008
+      },
+      {
+        "value": 685597,
+        "year": 2009
+      },
+      {
+        "value": 711627,
+        "year": 2010
+      },
+      {
+        "value": 714587,
+        "year": 2011
+      },
+      {
+        "value": 733364,
+        "year": 2012
+      },
+      {
+        "value": 728396,
+        "year": 2013
+      },
+      {
+        "value": 746716,
+        "year": 2014
+      },
+      {
+        "value": 751112,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 50,
+    "header": "Public sector Total Managed Expenditure (%)",
+    "title": "A16. Fiscal data ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 41,
+        "year": 1979
+      },
+      {
+        "value": 42,
+        "year": 1980
+      },
+      {
+        "value": 43,
+        "year": 1981
+      },
+      {
+        "value": 43,
+        "year": 1982
+      },
+      {
+        "value": 43,
+        "year": 1983
+      },
+      {
+        "value": 42,
+        "year": 1984
+      },
+      {
+        "value": 41,
+        "year": 1985
+      },
+      {
+        "value": 39,
+        "year": 1986
+      },
+      {
+        "value": 37,
+        "year": 1987
+      },
+      {
+        "value": 35,
+        "year": 1988
+      },
+      {
+        "value": 34,
+        "year": 1989
+      },
+      {
+        "value": 35,
+        "year": 1990
+      },
+      {
+        "value": 36,
+        "year": 1991
+      },
+      {
+        "value": 38,
+        "year": 1992
+      },
+      {
+        "value": 38,
+        "year": 1993
+      },
+      {
+        "value": 38,
+        "year": 1994
+      },
+      {
+        "value": 38,
+        "year": 1995
+      },
+      {
+        "value": 36,
+        "year": 1996
+      },
+      {
+        "value": 34,
+        "year": 1997
+      },
+      {
+        "value": 34,
+        "year": 1998
+      },
+      {
+        "value": 34,
+        "year": 1999
+      },
+      {
+        "value": 34,
+        "year": 2000
+      },
+      {
+        "value": 35,
+        "year": 2001
+      },
+      {
+        "value": 36,
+        "year": 2002
+      },
+      {
+        "value": 37,
+        "year": 2003
+      },
+      {
+        "value": 38,
+        "year": 2004
+      },
+      {
+        "value": 38,
+        "year": 2005
+      },
+      {
+        "value": 38,
+        "year": 2006
+      },
+      {
+        "value": 38,
+        "year": 2007
+      },
+      {
+        "value": 41,
+        "year": 2008
+      },
+      {
+        "value": 45,
+        "year": 2009
+      },
+      {
+        "value": 45,
+        "year": 2010
+      },
+      {
+        "value": 43,
+        "year": 2011
+      },
+      {
+        "value": 43,
+        "year": 2012
+      },
+      {
+        "value": 41,
+        "year": 2013
+      },
+      {
+        "value": 41,
+        "year": 2014
+      },
+      {
+        "value": 40,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 51,
+    "header": "Public Sector Total Receipts",
+    "title": "A16. Fiscal data ",
+    "unit": "Calendar year total, £mn",
+    "points": [
+      {
+        "value": 80740,
+        "year": 1979
+      },
+      {
+        "value": 100220,
+        "year": 1980
+      },
+      {
+        "value": 116026,
+        "year": 1981
+      },
+      {
+        "value": 130206,
+        "year": 1982
+      },
+      {
+        "value": 140211,
+        "year": 1983
+      },
+      {
+        "value": 148295,
+        "year": 1984
+      },
+      {
+        "value": 159893,
+        "year": 1985
+      },
+      {
+        "value": 167971,
+        "year": 1986
+      },
+      {
+        "value": 179014,
+        "year": 1987
+      },
+      {
+        "value": 197530,
+        "year": 1988
+      },
+      {
+        "value": 214824,
+        "year": 1989
+      },
+      {
+        "value": 227642,
+        "year": 1990
+      },
+      {
+        "value": 234095,
+        "year": 1991
+      },
+      {
+        "value": 236475,
+        "year": 1992
+      },
+      {
+        "value": 239232,
+        "year": 1993
+      },
+      {
+        "value": 256289,
+        "year": 1994
+      },
+      {
+        "value": 278615,
+        "year": 1995
+      },
+      {
+        "value": 291671,
+        "year": 1996
+      },
+      {
+        "value": 312320,
+        "year": 1997
+      },
+      {
+        "value": 339798,
+        "year": 1998
+      },
+      {
+        "value": 359962,
+        "year": 1999
+      },
+      {
+        "value": 384362,
+        "year": 2000
+      },
+      {
+        "value": 399645,
+        "year": 2001
+      },
+      {
+        "value": 402540,
+        "year": 2002
+      },
+      {
+        "value": 426298,
+        "year": 2003
+      },
+      {
+        "value": 456586,
+        "year": 2004
+      },
+      {
+        "value": 488919,
+        "year": 2005
+      },
+      {
+        "value": 525503,
+        "year": 2006
+      },
+      {
+        "value": 550768,
+        "year": 2007
+      },
+      {
+        "value": 567555,
+        "year": 2008
+      },
+      {
+        "value": 531453,
+        "year": 2009
+      },
+      {
+        "value": 567477,
+        "year": 2010
+      },
+      {
+        "value": 598093,
+        "year": 2011
+      },
+      {
+        "value": 605787,
+        "year": 2012
+      },
+      {
+        "value": 625958,
+        "year": 2013
+      },
+      {
+        "value": 646401,
+        "year": 2014
+      },
+      {
+        "value": 671870,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 52,
+    "header": "Public Sector Total Receipts (%)",
+    "title": "A16. Fiscal data ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 36,
+        "year": 1979
+      },
+      {
+        "value": 38,
+        "year": 1980
+      },
+      {
+        "value": 40,
+        "year": 1981
+      },
+      {
+        "value": 41,
+        "year": 1982
+      },
+      {
+        "value": 40,
+        "year": 1983
+      },
+      {
+        "value": 39,
+        "year": 1984
+      },
+      {
+        "value": 38,
+        "year": 1985
+      },
+      {
+        "value": 37,
+        "year": 1986
+      },
+      {
+        "value": 36,
+        "year": 1987
+      },
+      {
+        "value": 35,
+        "year": 1988
+      },
+      {
+        "value": 35,
+        "year": 1989
+      },
+      {
+        "value": 34,
+        "year": 1990
+      },
+      {
+        "value": 33,
+        "year": 1991
+      },
+      {
+        "value": 32,
+        "year": 1992
+      },
+      {
+        "value": 31,
+        "year": 1993
+      },
+      {
+        "value": 32,
+        "year": 1994
+      },
+      {
+        "value": 33,
+        "year": 1995
+      },
+      {
+        "value": 32,
+        "year": 1996
+      },
+      {
+        "value": 33,
+        "year": 1997
+      },
+      {
+        "value": 34,
+        "year": 1998
+      },
+      {
+        "value": 35,
+        "year": 1999
+      },
+      {
+        "value": 35,
+        "year": 2000
+      },
+      {
+        "value": 35,
+        "year": 2001
+      },
+      {
+        "value": 34,
+        "year": 2002
+      },
+      {
+        "value": 34,
+        "year": 2003
+      },
+      {
+        "value": 35,
+        "year": 2004
+      },
+      {
+        "value": 35,
+        "year": 2005
+      },
+      {
+        "value": 36,
+        "year": 2006
+      },
+      {
+        "value": 36,
+        "year": 2007
+      },
+      {
+        "value": 36,
+        "year": 2008
+      },
+      {
+        "value": 35,
+        "year": 2009
+      },
+      {
+        "value": 36,
+        "year": 2010
+      },
+      {
+        "value": 36,
+        "year": 2011
+      },
+      {
+        "value": 36,
+        "year": 2012
+      },
+      {
+        "value": 36,
+        "year": 2013
+      },
+      {
+        "value": 35,
+        "year": 2014
+      },
+      {
+        "value": 35,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 53,
+    "header": "Public Sector Net Lending(+)/Borrowing(-)",
+    "title": "A16. Fiscal data ",
+    "unit": "Calendar year total, £mn",
+    "points": [
+      {
+        "value": -9364,
+        "year": 1979
+      },
+      {
+        "value": -10041,
+        "year": 1980
+      },
+      {
+        "value": -8825,
+        "year": 1981
+      },
+      {
+        "value": -7359,
+        "year": 1982
+      },
+      {
+        "value": -10582,
+        "year": 1983
+      },
+      {
+        "value": -12423,
+        "year": 1984
+      },
+      {
+        "value": -10563,
+        "year": 1985
+      },
+      {
+        "value": -8957,
+        "year": 1986
+      },
+      {
+        "value": -6594,
+        "year": 1987
+      },
+      {
+        "value": 3574,
+        "year": 1988
+      },
+      {
+        "value": 3801,
+        "year": 1989
+      },
+      {
+        "value": -4281,
+        "year": 1990
+      },
+      {
+        "value": -18374,
+        "year": 1991
+      },
+      {
+        "value": -40549,
+        "year": 1992
+      },
+      {
+        "value": -51391,
+        "year": 1993
+      },
+      {
+        "value": -46482,
+        "year": 1994
+      },
+      {
+        "value": -39160,
+        "year": 1995
+      },
+      {
+        "value": -29840,
+        "year": 1996
+      },
+      {
+        "value": -15444,
+        "year": 1997
+      },
+      {
+        "value": 651,
+        "year": 1998
+      },
+      {
+        "value": 11299,
+        "year": 1999
+      },
+      {
+        "value": 15656,
+        "year": 2000
+      },
+      {
+        "value": 7450,
+        "year": 2001
+      },
+      {
+        "value": -20168,
+        "year": 2002
+      },
+      {
+        "value": -33293,
+        "year": 2003
+      },
+      {
+        "value": -39489,
+        "year": 2004
+      },
+      {
+        "value": -46333,
+        "year": 2005
+      },
+      {
+        "value": -36425,
+        "year": 2006
+      },
+      {
+        "value": -40687,
+        "year": 2007
+      },
+      {
+        "value": -75593,
+        "year": 2008
+      },
+      {
+        "value": -154144,
+        "year": 2009
+      },
+      {
+        "value": -144150,
+        "year": 2010
+      },
+      {
+        "value": -116494,
+        "year": 2011
+      },
+      {
+        "value": -127577,
+        "year": 2012
+      },
+      {
+        "value": -102438,
+        "year": 2013
+      },
+      {
+        "value": -100315,
+        "year": 2014
+      },
+      {
+        "value": -79242,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 54,
+    "header": "Public Sector Net Lending(+)/Borrowing(-) (%)",
+    "title": "A16. Fiscal data ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": -4,
+        "year": 1979
+      },
+      {
+        "value": -3,
+        "year": 1980
+      },
+      {
+        "value": -3,
+        "year": 1981
+      },
+      {
+        "value": -2,
+        "year": 1982
+      },
+      {
+        "value": -3,
+        "year": 1983
+      },
+      {
+        "value": -3,
+        "year": 1984
+      },
+      {
+        "value": -2,
+        "year": 1985
+      },
+      {
+        "value": -2,
+        "year": 1986
+      },
+      {
+        "value": -1,
+        "year": 1987
+      },
+      {
+        "value": 0,
+        "year": 1988
+      },
+      {
+        "value": 0,
+        "year": 1989
+      },
+      {
+        "value": 0,
+        "year": 1990
+      },
+      {
+        "value": -2,
+        "year": 1991
+      },
+      {
+        "value": -5,
+        "year": 1992
+      },
+      {
+        "value": -6,
+        "year": 1993
+      },
+      {
+        "value": -5,
+        "year": 1994
+      },
+      {
+        "value": -4,
+        "year": 1995
+      },
+      {
+        "value": -3,
+        "year": 1996
+      },
+      {
+        "value": -1,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": 1,
+        "year": 1999
+      },
+      {
+        "value": 1,
+        "year": 2000
+      },
+      {
+        "value": 0,
+        "year": 2001
+      },
+      {
+        "value": -1,
+        "year": 2002
+      },
+      {
+        "value": -2,
+        "year": 2003
+      },
+      {
+        "value": -3,
+        "year": 2004
+      },
+      {
+        "value": -3,
+        "year": 2005
+      },
+      {
+        "value": -2,
+        "year": 2006
+      },
+      {
+        "value": -2,
+        "year": 2007
+      },
+      {
+        "value": -4,
+        "year": 2008
+      },
+      {
+        "value": -10,
+        "year": 2009
+      },
+      {
+        "value": -9,
+        "year": 2010
+      },
+      {
+        "value": -7,
+        "year": 2011
+      },
+      {
+        "value": -7,
+        "year": 2012
+      },
+      {
+        "value": -5,
+        "year": 2013
+      },
+      {
+        "value": -5,
+        "year": 2014
+      },
+      {
+        "value": -4,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 55,
+    "header": "Public sector debt",
+    "title": "A18. National Debt ",
+    "unit": "Year end stock outstanding, £mn",
+    "points": [
+      {
+        "value": 95795,
+        "year": 1979
+      },
+      {
+        "value": 109924,
+        "year": 1980
+      },
+      {
+        "value": 122358,
+        "year": 1981
+      },
+      {
+        "value": 130709,
+        "year": 1982
+      },
+      {
+        "value": 140840,
+        "year": 1983
+      },
+      {
+        "value": 153664,
+        "year": 1984
+      },
+      {
+        "value": 161102,
+        "year": 1985
+      },
+      {
+        "value": 166431,
+        "year": 1986
+      },
+      {
+        "value": 167474,
+        "year": 1987
+      },
+      {
+        "value": 157135,
+        "year": 1988
+      },
+      {
+        "value": 152374,
+        "year": 1989
+      },
+      {
+        "value": 151267,
+        "year": 1990
+      },
+      {
+        "value": 162074,
+        "year": 1991
+      },
+      {
+        "value": 192851,
+        "year": 1992
+      },
+      {
+        "value": 234900,
+        "year": 1993
+      },
+      {
+        "value": 278400,
+        "year": 1994
+      },
+      {
+        "value": 313600,
+        "year": 1995
+      },
+      {
+        "value": 341900,
+        "year": 1996
+      },
+      {
+        "value": 364000,
+        "year": 1997
+      },
+      {
+        "value": 361200,
+        "year": 1998
+      },
+      {
+        "value": 360200,
+        "year": 1999
+      },
+      {
+        "value": 327600,
+        "year": 2000
+      },
+      {
+        "value": 328700,
+        "year": 2001
+      },
+      {
+        "value": 357700,
+        "year": 2002
+      },
+      {
+        "value": 393600,
+        "year": 2003
+      },
+      {
+        "value": 451500,
+        "year": 2004
+      },
+      {
+        "value": 496200,
+        "year": 2005
+      },
+      {
+        "value": 532200,
+        "year": 2006
+      },
+      {
+        "value": 569900,
+        "year": 2007
+      },
+      {
+        "value": 736000,
+        "year": 2008
+      },
+      {
+        "value": 931100,
+        "year": 2009
+      },
+      {
+        "value": 1129300,
+        "year": 2010
+      },
+      {
+        "value": 1231500,
+        "year": 2011
+      },
+      {
+        "value": 1340400,
+        "year": 2012
+      },
+      {
+        "value": 1444600,
+        "year": 2013
+      },
+      {
+        "value": 1548300,
+        "year": 2014
+      },
+      {
+        "value": 1605500,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 56,
+    "header": "Public sector debt (%)",
+    "title": "A18. National Debt ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 43,
+        "year": 1979
+      },
+      {
+        "value": 42,
+        "year": 1980
+      },
+      {
+        "value": 42,
+        "year": 1981
+      },
+      {
+        "value": 41,
+        "year": 1982
+      },
+      {
+        "value": 40,
+        "year": 1983
+      },
+      {
+        "value": 41,
+        "year": 1984
+      },
+      {
+        "value": 39,
+        "year": 1985
+      },
+      {
+        "value": 37,
+        "year": 1986
+      },
+      {
+        "value": 34,
+        "year": 1987
+      },
+      {
+        "value": 28,
+        "year": 1988
+      },
+      {
+        "value": 25,
+        "year": 1989
+      },
+      {
+        "value": 22,
+        "year": 1990
+      },
+      {
+        "value": 23,
+        "year": 1991
+      },
+      {
+        "value": 26,
+        "year": 1992
+      },
+      {
+        "value": 31,
+        "year": 1993
+      },
+      {
+        "value": 34,
+        "year": 1994
+      },
+      {
+        "value": 37,
+        "year": 1995
+      },
+      {
+        "value": 38,
+        "year": 1996
+      },
+      {
+        "value": 38,
+        "year": 1997
+      },
+      {
+        "value": 36,
+        "year": 1998
+      },
+      {
+        "value": 35,
+        "year": 1999
+      },
+      {
+        "value": 30,
+        "year": 2000
+      },
+      {
+        "value": 29,
+        "year": 2001
+      },
+      {
+        "value": 30,
+        "year": 2002
+      },
+      {
+        "value": 31,
+        "year": 2003
+      },
+      {
+        "value": 34,
+        "year": 2004
+      },
+      {
+        "value": 36,
+        "year": 2005
+      },
+      {
+        "value": 36,
+        "year": 2006
+      },
+      {
+        "value": 37,
+        "year": 2007
+      },
+      {
+        "value": 47,
+        "year": 2008
+      },
+      {
+        "value": 61,
+        "year": 2009
+      },
+      {
+        "value": 71,
+        "year": 2010
+      },
+      {
+        "value": 75,
+        "year": 2011
+      },
+      {
+        "value": 80,
+        "year": 2012
+      },
+      {
+        "value": 83,
+        "year": 2013
+      },
+      {
+        "value": 85,
+        "year": 2014
+      },
+      {
+        "value": 85,
+        "year": 2015
+      }
+    ],
+    "section": "Fiscal"
+  },
+  {
+    "id": 57,
+    "header": "Trade deficit",
+    "title": "A24. Trade values ",
+    "unit": "£mn",
+    "points": [
+      {
+        "value": 955,
+        "year": 1979
+      },
+      {
+        "value": 5407,
+        "year": 1980
+      },
+      {
+        "value": 7602,
+        "year": 1981
+      },
+      {
+        "value": 5689,
+        "year": 1982
+      },
+      {
+        "value": 3299,
+        "year": 1983
+      },
+      {
+        "value": 131,
+        "year": 1984
+      },
+      {
+        "value": 4488,
+        "year": 1985
+      },
+      {
+        "value": -2090,
+        "year": 1986
+      },
+      {
+        "value": -3483,
+        "year": 1987
+      },
+      {
+        "value": -15094,
+        "year": 1988
+      },
+      {
+        "value": -18323,
+        "year": 1989
+      },
+      {
+        "value": -11117,
+        "year": 1990
+      },
+      {
+        "value": -2550,
+        "year": 1991
+      },
+      {
+        "value": -4847,
+        "year": 1992
+      },
+      {
+        "value": -2658,
+        "year": 1993
+      },
+      {
+        "value": -185,
+        "year": 1994
+      },
+      {
+        "value": 2394,
+        "year": 1995
+      },
+      {
+        "value": 1604,
+        "year": 1996
+      },
+      {
+        "value": 3828,
+        "year": 1997
+      },
+      {
+        "value": -7910,
+        "year": 1998
+      },
+      {
+        "value": -16169,
+        "year": 1999
+      },
+      {
+        "value": -20439,
+        "year": 2000
+      },
+      {
+        "value": -26108,
+        "year": 2001
+      },
+      {
+        "value": -32945,
+        "year": 2002
+      },
+      {
+        "value": -30386,
+        "year": 2003
+      },
+      {
+        "value": -35397,
+        "year": 2004
+      },
+      {
+        "value": -36502,
+        "year": 2005
+      },
+      {
+        "value": -36113,
+        "year": 2006
+      },
+      {
+        "value": -39942,
+        "year": 2007
+      },
+      {
+        "value": -46189,
+        "year": 2008
+      },
+      {
+        "value": -34355,
+        "year": 2009
+      },
+      {
+        "value": -42593,
+        "year": 2010
+      },
+      {
+        "value": -27060,
+        "year": 2011
+      },
+      {
+        "value": -37334,
+        "year": 2012
+      },
+      {
+        "value": -39238,
+        "year": 2013
+      },
+      {
+        "value": -36223,
+        "year": 2014
+      },
+      {
+        "value": -38568,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  },
+  {
+    "id": 58,
+    "header": "Trade deficit (% of GDP)",
+    "title": "A24. Trade values ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 2,
+        "year": 1980
+      },
+      {
+        "value": 2,
+        "year": 1981
+      },
+      {
+        "value": 1,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 1,
+        "year": 1985
+      },
+      {
+        "value": 0,
+        "year": 1986
+      },
+      {
+        "value": 0,
+        "year": 1987
+      },
+      {
+        "value": -2,
+        "year": 1988
+      },
+      {
+        "value": -3,
+        "year": 1989
+      },
+      {
+        "value": -1,
+        "year": 1990
+      },
+      {
+        "value": 0,
+        "year": 1991
+      },
+      {
+        "value": 0,
+        "year": 1992
+      },
+      {
+        "value": 0,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": -1,
+        "year": 1999
+      },
+      {
+        "value": -1,
+        "year": 2000
+      },
+      {
+        "value": -2,
+        "year": 2001
+      },
+      {
+        "value": -2,
+        "year": 2002
+      },
+      {
+        "value": -2,
+        "year": 2003
+      },
+      {
+        "value": -2,
+        "year": 2004
+      },
+      {
+        "value": -2,
+        "year": 2005
+      },
+      {
+        "value": -2,
+        "year": 2006
+      },
+      {
+        "value": -2,
+        "year": 2007
+      },
+      {
+        "value": -3,
+        "year": 2008
+      },
+      {
+        "value": -2,
+        "year": 2009
+      },
+      {
+        "value": -2,
+        "year": 2010
+      },
+      {
+        "value": -1,
+        "year": 2011
+      },
+      {
+        "value": -2,
+        "year": 2012
+      },
+      {
+        "value": -2,
+        "year": 2013
+      },
+      {
+        "value": -2,
+        "year": 2014
+      },
+      {
+        "value": -2,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  },
+  {
+    "id": 59,
+    "header": "Current account ",
+    "title": "A24. Trade values ",
+    "unit": "£mn",
+    "points": [
+      {
+        "value": -1294,
+        "year": 1979
+      },
+      {
+        "value": 1404,
+        "year": 1980
+      },
+      {
+        "value": 4434,
+        "year": 1981
+      },
+      {
+        "value": 1782,
+        "year": 1982
+      },
+      {
+        "value": 769,
+        "year": 1983
+      },
+      {
+        "value": -1855,
+        "year": 1984
+      },
+      {
+        "value": -1165,
+        "year": 1985
+      },
+      {
+        "value": -4269,
+        "year": 1986
+      },
+      {
+        "value": -7879,
+        "year": 1987
+      },
+      {
+        "value": -19685,
+        "year": 1988
+      },
+      {
+        "value": -25056,
+        "year": 1989
+      },
+      {
+        "value": -20673,
+        "year": 1990
+      },
+      {
+        "value": -9303,
+        "year": 1991
+      },
+      {
+        "value": -11114,
+        "year": 1992
+      },
+      {
+        "value": -10167,
+        "year": 1993
+      },
+      {
+        "value": -3917,
+        "year": 1994
+      },
+      {
+        "value": -5700,
+        "year": 1995
+      },
+      {
+        "value": -5193,
+        "year": 1996
+      },
+      {
+        "value": -1799,
+        "year": 1997
+      },
+      {
+        "value": -4187,
+        "year": 1998
+      },
+      {
+        "value": -24651,
+        "year": 1999
+      },
+      {
+        "value": -23228,
+        "year": 2000
+      },
+      {
+        "value": -21741,
+        "year": 2001
+      },
+      {
+        "value": -23431,
+        "year": 2002
+      },
+      {
+        "value": -20553,
+        "year": 2003
+      },
+      {
+        "value": -23006,
+        "year": 2004
+      },
+      {
+        "value": -16743,
+        "year": 2005
+      },
+      {
+        "value": -32363,
+        "year": 2006
+      },
+      {
+        "value": -37490,
+        "year": 2007
+      },
+      {
+        "value": -55002,
+        "year": 2008
+      },
+      {
+        "value": -44831,
+        "year": 2009
+      },
+      {
+        "value": -43062,
+        "year": 2010
+      },
+      {
+        "value": -29088,
+        "year": 2011
+      },
+      {
+        "value": -61433,
+        "year": 2012
+      },
+      {
+        "value": -76442,
+        "year": 2013
+      },
+      {
+        "value": -84998,
+        "year": 2014
+      },
+      {
+        "value": -100261,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  },
+  {
+    "id": 60,
+    "header": "Current account (% of gdp)",
+    "title": "A24. Trade values ",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 1,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": -1,
+        "year": 1986
+      },
+      {
+        "value": -1,
+        "year": 1987
+      },
+      {
+        "value": -3,
+        "year": 1988
+      },
+      {
+        "value": -4,
+        "year": 1989
+      },
+      {
+        "value": -3,
+        "year": 1990
+      },
+      {
+        "value": -1,
+        "year": 1991
+      },
+      {
+        "value": -1,
+        "year": 1992
+      },
+      {
+        "value": -1,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": -2,
+        "year": 1999
+      },
+      {
+        "value": -2,
+        "year": 2000
+      },
+      {
+        "value": -1,
+        "year": 2001
+      },
+      {
+        "value": -2,
+        "year": 2002
+      },
+      {
+        "value": -1,
+        "year": 2003
+      },
+      {
+        "value": -1,
+        "year": 2004
+      },
+      {
+        "value": -1,
+        "year": 2005
+      },
+      {
+        "value": -2,
+        "year": 2006
+      },
+      {
+        "value": -2,
+        "year": 2007
+      },
+      {
+        "value": -3,
+        "year": 2008
+      },
+      {
+        "value": -3,
+        "year": 2009
+      },
+      {
+        "value": -2,
+        "year": 2010
+      },
+      {
+        "value": -1,
+        "year": 2011
+      },
+      {
+        "value": -3,
+        "year": 2012
+      },
+      {
+        "value": -4,
+        "year": 2013
+      },
+      {
+        "value": -4,
+        "year": 2014
+      },
+      {
+        "value": -5,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  },
+  {
+    "id": 61,
+    "header": "Current account deficit including estimated non-monetary bullion flows",
+    "title": "A24. Trade values ",
+    "unit": "£mn",
+    "points": [
+      {
+        "value": -1294,
+        "year": 1979
+      },
+      {
+        "value": 1404,
+        "year": 1980
+      },
+      {
+        "value": 4434,
+        "year": 1981
+      },
+      {
+        "value": 1782,
+        "year": 1982
+      },
+      {
+        "value": 769,
+        "year": 1983
+      },
+      {
+        "value": -1855,
+        "year": 1984
+      },
+      {
+        "value": -1165,
+        "year": 1985
+      },
+      {
+        "value": -4269,
+        "year": 1986
+      },
+      {
+        "value": -7879,
+        "year": 1987
+      },
+      {
+        "value": -19685,
+        "year": 1988
+      },
+      {
+        "value": -25056,
+        "year": 1989
+      },
+      {
+        "value": -20673,
+        "year": 1990
+      },
+      {
+        "value": -9303,
+        "year": 1991
+      },
+      {
+        "value": -11114,
+        "year": 1992
+      },
+      {
+        "value": -10167,
+        "year": 1993
+      },
+      {
+        "value": -3917,
+        "year": 1994
+      },
+      {
+        "value": -5700,
+        "year": 1995
+      },
+      {
+        "value": -5193,
+        "year": 1996
+      },
+      {
+        "value": -1799,
+        "year": 1997
+      },
+      {
+        "value": -4187,
+        "year": 1998
+      },
+      {
+        "value": -24651,
+        "year": 1999
+      },
+      {
+        "value": -23228,
+        "year": 2000
+      },
+      {
+        "value": -21741,
+        "year": 2001
+      },
+      {
+        "value": -23431,
+        "year": 2002
+      },
+      {
+        "value": -20553,
+        "year": 2003
+      },
+      {
+        "value": -23006,
+        "year": 2004
+      },
+      {
+        "value": -16743,
+        "year": 2005
+      },
+      {
+        "value": -32363,
+        "year": 2006
+      },
+      {
+        "value": -37490,
+        "year": 2007
+      },
+      {
+        "value": -55002,
+        "year": 2008
+      },
+      {
+        "value": -44831,
+        "year": 2009
+      },
+      {
+        "value": -43062,
+        "year": 2010
+      },
+      {
+        "value": -29088,
+        "year": 2011
+      },
+      {
+        "value": -61433,
+        "year": 2012
+      },
+      {
+        "value": -76442,
+        "year": 2013
+      },
+      {
+        "value": -84998,
+        "year": 2014
+      },
+      {
+        "value": -100261,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  },
+  {
+    "id": 62,
+    "header": "Trade deficit (%)",
+    "title": "A24. Trade values",
+    "unit": "as a % of nominal GDP",
+    "points": [
+      {
+        "value": 0,
+        "year": 1979
+      },
+      {
+        "value": 0,
+        "year": 1980
+      },
+      {
+        "value": 1,
+        "year": 1981
+      },
+      {
+        "value": 0,
+        "year": 1982
+      },
+      {
+        "value": 0,
+        "year": 1983
+      },
+      {
+        "value": 0,
+        "year": 1984
+      },
+      {
+        "value": 0,
+        "year": 1985
+      },
+      {
+        "value": -1,
+        "year": 1986
+      },
+      {
+        "value": -1,
+        "year": 1987
+      },
+      {
+        "value": -3,
+        "year": 1988
+      },
+      {
+        "value": -4,
+        "year": 1989
+      },
+      {
+        "value": -3,
+        "year": 1990
+      },
+      {
+        "value": -1,
+        "year": 1991
+      },
+      {
+        "value": -1,
+        "year": 1992
+      },
+      {
+        "value": -1,
+        "year": 1993
+      },
+      {
+        "value": 0,
+        "year": 1994
+      },
+      {
+        "value": 0,
+        "year": 1995
+      },
+      {
+        "value": 0,
+        "year": 1996
+      },
+      {
+        "value": 0,
+        "year": 1997
+      },
+      {
+        "value": 0,
+        "year": 1998
+      },
+      {
+        "value": -2,
+        "year": 1999
+      },
+      {
+        "value": -2,
+        "year": 2000
+      },
+      {
+        "value": -1,
+        "year": 2001
+      },
+      {
+        "value": -2,
+        "year": 2002
+      },
+      {
+        "value": -1,
+        "year": 2003
+      },
+      {
+        "value": -1,
+        "year": 2004
+      },
+      {
+        "value": -1,
+        "year": 2005
+      },
+      {
+        "value": -2,
+        "year": 2006
+      },
+      {
+        "value": -2,
+        "year": 2007
+      },
+      {
+        "value": -3,
+        "year": 2008
+      },
+      {
+        "value": -3,
+        "year": 2009
+      },
+      {
+        "value": -2,
+        "year": 2010
+      },
+      {
+        "value": -1,
+        "year": 2011
+      },
+      {
+        "value": -3,
+        "year": 2012
+      },
+      {
+        "value": -4,
+        "year": 2013
+      },
+      {
+        "value": -4,
+        "year": 2014
+      },
+      {
+        "value": -5,
+        "year": 2015
+      }
+    ],
+    "section": "Trade"
+  }
+]
